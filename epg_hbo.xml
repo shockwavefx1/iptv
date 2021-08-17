@@ -10,6 +10,11 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="997">
+    <display-name lang="en">HBO SIGNATURE</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
 <programme start="20210816005000 +0800" stop="20210816010000 +0800" channel="999">
     <title lang="en">THE TOM AND JERRY SHOW S1</title>
     <desc lang="en">WHAT A PAIN!</desc>
@@ -3018,6 +3023,1732 @@
     <title lang="en">YESTERDAY</title>
     <desc lang="en"></desc>
 </programme>
-  
-  
+<programme start="20210801060000 +0800" stop="20210801062500 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210801062500 +0800" stop="20210801081500 +0800" channel="997">
+    <title lang="en">ME BEFORE YOU</title>
+    <desc lang="en">A young countryside woman and an affluent banker paralyzed in a tragic accident couldn"t have less in common, but in this heartbreakingly romance, they gain understanding, and ultimately love from one another.</desc>
+</programme>
+<programme start="20210801081500 +0800" stop="20210801084500 +0800" channel="997">
+    <title lang="en">CATCH AND KILL: THE PODCAST TAPES S1</title>
+    <desc lang="en">Based on Ronan Farrow"s book of the same name, this documentary series is an account of his investigation of Harvey Weinstein.</desc>
+</programme>
+<programme start="20210801084500 +0800" stop="20210801091500 +0800" channel="997">
+    <title lang="en">CATCH AND KILL: THE PODCAST TAPES S1</title>
+    <desc lang="en">Based on Ronan Farrow"s book of the same name, this documentary series is an account of his investigation of Harvey Weinstein.</desc>
+</programme>
+<programme start="20210801091500 +0800" stop="20210801100000 +0800" channel="997">
+    <title lang="en">TRINITY OF SHADOWS S1</title>
+    <desc lang="en">An unexpected death causes Tze-Wei to be even more determined to arrest the suspect. Meanwhile, Chi-Hsiao"s father is displeased with his relationship with Tze-Wei and decides to take action.</desc>
+</programme>
+<programme start="20210801100000 +0800" stop="20210801104500 +0800" channel="997">
+    <title lang="en">TRINITY OF SHADOWS S1</title>
+    <desc lang="en">Tze-Wei finally finds out who Chi-Hsiao"s biological mother is while Chi-Hsiao locates Tze-Wei’s missing mother. They confront their demons and resign to the tragedy caused by their parents.</desc>
+</programme>
+<programme start="20210801104500 +0800" stop="20210801123000 +0800" channel="997">
+    <title lang="en">THE RHYTHM SECTION</title>
+    <desc lang="en">When an ordinary woman on a path of self-destruction discovers that the plane crash that killed her family was not an accident, she enters a dark, complex world to seek revenge and find her own redemption.</desc>
+</programme>
+<programme start="20210801123000 +0800" stop="20210801135500 +0800" channel="997">
+    <title lang="en">THE ROADS NOT TAKEN</title>
+    <desc lang="en">Follow a day in the life of Leo (Javier Bardem) and his daughter Molly (Elle Fanning) as she grapples with the challenges of her father"s chaotic mind.</desc>
+</programme>
+<programme start="20210801135500 +0800" stop="20210801160500 +0800" channel="997">
+    <title lang="en">QUEEN & SLIM </title>
+    <desc lang="en">On a first date, a black man and woman are stopped by a policeman over a minor traffic infraction. As the situation spirals, the man kills the officer in self-defense, forcing the two to go on the run.</desc>
+</programme>
+<programme start="20210801160500 +0800" stop="20210801173500 +0800" channel="997">
+    <title lang="en">AN AMERICAN PICKLE</title>
+    <desc lang="en">An immigrant worker falls into a vat of pickles and is brined for 100 years. The brine preserves him perfectly, and when he emerges in present day Brooklyn, he finds that he hasn"t aged a day.</desc>
+</programme>
+<programme start="20210801173500 +0800" stop="20210801190500 +0800" channel="997">
+    <title lang="en">UNDEFEATED</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
+</programme>
+<programme start="20210801190500 +0800" stop="20210801210000 +0800" channel="997">
+    <title lang="en">LABOR DAY</title>
+    <desc lang="en">The lives of a young boy and his mother are changed when they take in an escaped convict over the long Labor Day weekend.</desc>
+</programme>
+<programme start="20210801210000 +0800" stop="20210801220000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">A social satire set at an exclusive tropical resort, THE WHITE LOTUS follows the exploits of various guests and employees over the span of a week.</desc>
+</programme>
+<programme start="20210801220000 +0800" stop="20210801234500 +0800" channel="997">
+    <title lang="en">SLEEPY HOLLOW</title>
+    <desc lang="en">Johnny Depp plays a fearless constable who has to confront the horrifying legend of the Headless Horseman in this Tim Burton-directed horror.</desc>
+</programme>
+<programme start="20210801234500 +0800" stop="20210802011500 +0800" channel="997">
+    <title lang="en">BLUE STORY</title>
+    <desc lang="en">Inspired by true stories from rapper-turned-director Rapman, comes a hard-hitting crime drama about two friends growing up in South East London who end up on rival sides in a street war.</desc>
+</programme>
+<programme start="20210802011500 +0800" stop="20210802025500 +0800" channel="997">
+    <title lang="en">THE FESTIVAL </title>
+    <desc lang="en">Joe Thomas stars as a graduate who gets dumped by his girlfriend and goes to a music festival to get over it in this outrageous comedy from the creators of The Inbetweeners.</desc>
+</programme>
+<programme start="20210802025500 +0800" stop="20210802054000 +0800" channel="997">
+    <title lang="en">IT: CHAPTER 2</title>
+    <desc lang="en">27 years after he was defeated, Pennywise is back to terrorise the town of Derry. Now adults, the Losers have to come together to conquer their deepest fears and destroy Pennywise once and for all.</desc>
+</programme>
+<programme start="20210802054000 +0800" stop="20210802072500 +0800" channel="997">
+    <title lang="en">WINCHELL</title>
+    <desc lang="en">Based on true story, this HBO Original Movie follows tabloid journalist Walter Winchell, who lived the way he wrote – controversially.</desc>
+</programme>
+<programme start="20210802072500 +0800" stop="20210802091000 +0800" channel="997">
+    <title lang="en">THE RHYTHM SECTION</title>
+    <desc lang="en">When an ordinary woman on a path of self-destruction discovers that the plane crash that killed her family was not an accident, she enters a dark, complex world to seek revenge and find her own redemption.</desc>
+</programme>
+<programme start="20210802091000 +0800" stop="20210802104000 +0800" channel="997">
+    <title lang="en">THE SPECIAL RELATIONSHIP</title>
+    <desc lang="en">The Special Relationship follows British Prime Minister Tony Blair and US President Bill Clinton as the two dynamic leaders become co-stars on the world stage.</desc>
+</programme>
+<programme start="20210802104000 +0800" stop="20210802124500 +0800" channel="997">
+    <title lang="en">QUEEN & SLIM </title>
+    <desc lang="en">On a first date, a black man and woman are stopped by a policeman over a minor traffic infraction. As the situation spirals, the man kills the officer in self-defense, forcing the two to go on the run.</desc>
+</programme>
+<programme start="20210802124500 +0800" stop="20210802143500 +0800" channel="997">
+    <title lang="en">LABOR DAY</title>
+    <desc lang="en">The lives of a young boy and his mother are changed when they take in an escaped convict over the long Labor Day weekend.</desc>
+</programme>
+<programme start="20210802143500 +0800" stop="20210802161000 +0800" channel="997">
+    <title lang="en">AN AMERICAN PICKLE</title>
+    <desc lang="en">An immigrant worker falls into a vat of pickles and is brined for 100 years. The brine preserves him perfectly, and when he emerges in present day Brooklyn, he finds that he hasn"t aged a day.</desc>
+</programme>
+<programme start="20210802161000 +0800" stop="20210802181000 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210802181000 +0800" stop="20210802201000 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210802201000 +0800" stop="20210802220000 +0800" channel="997">
+    <title lang="en">LET THEM ALL TALK</title>
+    <desc lang="en">Celebrated novelist Alice Hughes and her two oldest friends embark on a journey aboard an ocean liner to England, where Alice is due to accept a prestigious literary award.</desc>
+</programme>
+<programme start="20210802220000 +0800" stop="20210802225000 +0800" channel="997">
+    <title lang="en">TRINITY OF SHADOWS S1</title>
+    <desc lang="en">When Tze-Wei visits her grandfather at the nursing home, she runs into Ta-Dong. In that moment, Chi-Hsiao also shows up with Tze-Wei"s mother. The time has come for Ta-Dong to seek revenge.</desc>
+</programme>
+<programme start="20210802225000 +0800" stop="20210803001500 +0800" channel="997">
+    <title lang="en">ONCE</title>
+    <desc lang="en">A modern-day musical about a busker and an immigrant and their eventful week in Dublin as they write rehearse and record songs that tell their love story.</desc>
+</programme>
+<programme start="20210803001500 +0800" stop="20210803015000 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210803015000 +0800" stop="20210803040500 +0800" channel="997">
+    <title lang="en">MIDWAY</title>
+    <desc lang="en">Based on true events in the Battle of Midway, the film tells story of the leaders and soldiers who used their instincts, fortitude, and bravery to overcome the odds during World War II.</desc>
+</programme>
+<programme start="20210803040500 +0800" stop="20210803054500 +0800" channel="997">
+    <title lang="en">NEVER RARELY SOMETIMES ALWAYS</title>
+    <desc lang="en">Faced with an unintended pregnancy and a lack of local support, Autumn and her cousin, Skylar, travel across state lines to New York City on a fraught journey of friendship, bravery and compassion.</desc>
+</programme>
+<programme start="20210803054500 +0800" stop="20210803071500 +0800" channel="997">
+    <title lang="en">CHANCE OF A LIFETIME</title>
+    <desc lang="en">An overweight, homely woman unexpectedly finds love with her longtime male friend when they are forced into a fake marriage with each other.</desc>
+</programme>
+<programme start="20210803071500 +0800" stop="20210803085000 +0800" channel="997">
+    <title lang="en">THE SPECIAL RELATIONSHIP</title>
+    <desc lang="en">The Special Relationship follows British Prime Minister Tony Blair and US President Bill Clinton as the two dynamic leaders become co-stars on the world stage.</desc>
+</programme>
+<programme start="20210803085000 +0800" stop="20210803105000 +0800" channel="997">
+    <title lang="en">THE MEXICAN</title>
+    <desc lang="en">A clumsy criminal gets placed in a position where he has to save himself and his girlfriend from the Mafia.</desc>
+</programme>
+<programme start="20210803105000 +0800" stop="20210803124500 +0800" channel="997">
+    <title lang="en">LET THEM ALL TALK</title>
+    <desc lang="en">Celebrated novelist Alice Hughes and her two oldest friends embark on a journey aboard an ocean liner to England, where Alice is due to accept a prestigious literary award.</desc>
+</programme>
+<programme start="20210803124500 +0800" stop="20210803133500 +0800" channel="997">
+    <title lang="en">TRINITY OF SHADOWS S1</title>
+    <desc lang="en">When Tze-Wei visits her grandfather at the nursing home, she runs into Ta-Dong. In that moment, Chi-Hsiao also shows up with Tze-Wei"s mother. The time has come for Ta-Dong to seek revenge.</desc>
+</programme>
+<programme start="20210803133500 +0800" stop="20210803155000 +0800" channel="997">
+    <title lang="en">MIDWAY</title>
+    <desc lang="en">Based on true events in the Battle of Midway, the film tells story of the leaders and soldiers who used their instincts, fortitude, and bravery to overcome the odds during World War II.</desc>
+</programme>
+<programme start="20210803155000 +0800" stop="20210803172000 +0800" channel="997">
+    <title lang="en">ONCE</title>
+    <desc lang="en">A modern-day musical about a busker and an immigrant and their eventful week in Dublin as they write rehearse and record songs that tell their love story.</desc>
+</programme>
+<programme start="20210803172000 +0800" stop="20210803185500 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210803185500 +0800" stop="20210803202500 +0800" channel="997">
+    <title lang="en">CHANCE OF A LIFETIME</title>
+    <desc lang="en">An overweight, homely woman unexpectedly finds love with her longtime male friend when they are forced into a fake marriage with each other.</desc>
+</programme>
+<programme start="20210803202500 +0800" stop="20210803220000 +0800" channel="997">
+    <title lang="en">HUMAN CAPITAL</title>
+    <desc lang="en">The lives of two families from across the social divide become fatefully intertwined following an impulsive business deal and a tragic hit-and-run accident.</desc>
+</programme>
+<programme start="20210803220000 +0800" stop="20210803230000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210803230000 +0800" stop="20210804004000 +0800" channel="997">
+    <title lang="en">NEVER RARELY SOMETIMES ALWAYS</title>
+    <desc lang="en">Faced with an unintended pregnancy and a lack of local support, Autumn and her cousin, Skylar, travel across state lines to New York City on a fraught journey of friendship, bravery and compassion.</desc>
+</programme>
+<programme start="20210804004000 +0800" stop="20210804024500 +0800" channel="997">
+    <title lang="en">JOKER</title>
+    <desc lang="en">An original, independent story that centers on the famous arch-nemesis of Batman - it explores Arthur Fleck and his journey from societal outcast and failed comedian to cackling criminal mastermind.</desc>
+</programme>
+<programme start="20210804024500 +0800" stop="20210804031000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210804031000 +0800" stop="20210804053500 +0800" channel="997">
+    <title lang="en">BABEL</title>
+    <desc lang="en">A tragic incident involving an American couple in Morocco sparks a chain of events for four families in different countries, as they struggle to overcome isolation, fear, and displacement.</desc>
+</programme>
+<programme start="20210804053500 +0800" stop="20210804073500 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210804073500 +0800" stop="20210804095000 +0800" channel="997">
+    <title lang="en">FLIGHT</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.</desc>
+</programme>
+<programme start="20210804095000 +0800" stop="20210804115000 +0800" channel="997">
+    <title lang="en">YESTERDAY</title>
+    <desc lang="en">After a mysterious blackout, a struggling songwriter discovers that he is the only one who remembers The Beatles and he rises to fame by passing off their songs as his own.</desc>
+</programme>
+<programme start="20210804115000 +0800" stop="20210804125000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210804125000 +0800" stop="20210804143000 +0800" channel="997">
+    <title lang="en">HUMAN CAPITAL</title>
+    <desc lang="en">The lives of two families from across the social divide become fatefully intertwined following an impulsive business deal and a tragic hit-and-run accident.</desc>
+</programme>
+<programme start="20210804143000 +0800" stop="20210804162000 +0800" channel="997">
+    <title lang="en">THE PHOTOGRAPH</title>
+    <desc lang="en">When the estranged daughter of a late famed photographer discovers a photograph tucked away in a safe-deposit box, she finds herself on a journey delving into her mother"s early life.</desc>
+</programme>
+<programme start="20210804162000 +0800" stop="20210804182000 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210804182000 +0800" stop="20210804202500 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210804202500 +0800" stop="20210804220000 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S DIARY</title>
+    <desc lang="en">A single English woman decides to improve her life and chronicle the efforts in a diary.</desc>
+</programme>
+<programme start="20210804220000 +0800" stop="20210805014000 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210805014000 +0800" stop="20210805031000 +0800" channel="997">
+    <title lang="en">SPELL</title>
+    <desc lang="en">A man crash lands in Appalachia and awakens to find himself trapped by a traditional Hoodoo practitioner. To save his family, he must break free from her before the rise of the blood moon.</desc>
+</programme>
+<programme start="20210805031000 +0800" stop="20210805053000 +0800" channel="997">
+    <title lang="en">TRAFFIC</title>
+    <desc lang="en">Steven Soderbergh"s ambitious sprawling plot tackles the U.S. "War on Drugs" via three different stories and a large ensemble cast including Michael Douglas and Don Cheadle.</desc>
+</programme>
+<programme start="20210805053000 +0800" stop="20210805070000 +0800" channel="997">
+    <title lang="en">PSYCH 2: LASSIE COME HOME</title>
+    <desc lang="en">After being ambushed on the job and left for dead, Police Chief Carlton Lassiter has begun to see impossible things around his recovery clinic, prompting Shawn and Gus to return to help.</desc>
+</programme>
+<programme start="20210805070000 +0800" stop="20210805085500 +0800" channel="997">
+    <title lang="en">YESTERDAY</title>
+    <desc lang="en">After a mysterious blackout, a struggling songwriter discovers that he is the only one who remembers The Beatles and he rises to fame by passing off their songs as his own.</desc>
+</programme>
+<programme start="20210805085500 +0800" stop="20210805102500 +0800" channel="997">
+    <title lang="en">UNDEFEATED</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
+</programme>
+<programme start="20210805102500 +0800" stop="20210805114500 +0800" channel="997">
+    <title lang="en">THE PHOTOGRAPH</title>
+    <desc lang="en">When the estranged daughter of a late famed photographer discovers a photograph tucked away in a safe-deposit box, she finds herself on a journey delving into her mother"s early life.</desc>
+</programme>
+<programme start="20210805114500 +0800" stop="20210805140500 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210805140500 +0800" stop="20210805155500 +0800" channel="997">
+    <title lang="en">ME BEFORE YOU</title>
+    <desc lang="en">A young countryside woman and an affluent banker paralyzed in a tragic accident couldn"t have less in common, but in this heartbreakingly romance, they gain understanding, and ultimately love from one another.</desc>
+</programme>
+<programme start="20210805155500 +0800" stop="20210805173000 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210805173000 +0800" stop="20210805190500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S DIARY</title>
+    <desc lang="en">A single English woman decides to improve her life and chronicle the efforts in a diary.</desc>
+</programme>
+<programme start="20210805190500 +0800" stop="20210805203500 +0800" channel="997">
+    <title lang="en">PSYCH 2: LASSIE COME HOME</title>
+    <desc lang="en">After being ambushed on the job and left for dead, Police Chief Carlton Lassiter has begun to see impossible things around his recovery clinic, prompting Shawn and Gus to return to help.</desc>
+</programme>
+<programme start="20210805203500 +0800" stop="20210805220000 +0800" channel="997">
+    <title lang="en">AN AMERICAN PICKLE</title>
+    <desc lang="en">An immigrant worker falls into a vat of pickles and is brined for 100 years. The brine preserves him perfectly, and when he emerges in present day Brooklyn, he finds that he hasn"t aged a day.</desc>
+</programme>
+<programme start="20210805220000 +0800" stop="20210806010000 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210806010000 +0800" stop="20210806022000 +0800" channel="997">
+    <title lang="en">BANANA SPLIT </title>
+    <desc lang="en">Over the course of a summer, two teenage girls develop the perfect kindred spirit friendship, with one problem: one of them is dating the other’s ex.</desc>
+</programme>
+<programme start="20210806022000 +0800" stop="20210806040000 +0800" channel="997">
+    <title lang="en">MAMA</title>
+    <desc lang="en">Two abandoned young girls are fostered by an unknown entity which eventually follows them to their new suburban home.</desc>
+</programme>
+<programme start="20210806040000 +0800" stop="20210806053500 +0800" channel="997">
+    <title lang="en">THE FESTIVAL </title>
+    <desc lang="en">Joe Thomas stars as a graduate who gets dumped by his girlfriend and goes to a music festival to get over it in this outrageous comedy from the creators of The Inbetweeners.</desc>
+</programme>
+<programme start="20210806053500 +0800" stop="20210806073500 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210806073500 +0800" stop="20210806091000 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210806091000 +0800" stop="20210806113500 +0800" channel="997">
+    <title lang="en">ME BEFORE YOU</title>
+    <desc lang="en">A young countryside woman and an affluent banker paralyzed in a tragic accident couldn"t have less in common, but in this heartbreakingly romance, they gain understanding, and ultimately love from one another.</desc>
+</programme>
+<programme start="20210806113500 +0800" stop="20210806135500 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210806135500 +0800" stop="20210806155500 +0800" channel="997">
+    <title lang="en">THE MEXICAN</title>
+    <desc lang="en">A clumsy criminal gets placed in a position where he has to save himself and his girlfriend from the Mafia.</desc>
+</programme>
+<programme start="20210806155500 +0800" stop="20210806175000 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210806175000 +0800" stop="20210806191500 +0800" channel="997">
+    <title lang="en">AN AMERICAN PICKLE</title>
+    <desc lang="en">An immigrant worker falls into a vat of pickles and is brined for 100 years. The brine preserves him perfectly, and when he emerges in present day Brooklyn, he finds that he hasn"t aged a day.</desc>
+</programme>
+<programme start="20210806191500 +0800" stop="20210806211000 +0800" channel="997">
+    <title lang="en">YOU"VE GOT MAIL</title>
+    <desc lang="en">Two rivals in real life unknowingly end up as soul mates over the Internet.</desc>
+</programme>
+<programme start="20210806211000 +0800" stop="20210806220000 +0800" channel="997">
+    <title lang="en">TRINITY OF SHADOWS S1</title>
+    <desc lang="en">When Tze-Wei visits her grandfather at the nursing home, she runs into Ta-Dong. In that moment, Chi-Hsiao also shows up with Tze-Wei"s mother. The time has come for Ta-Dong to seek revenge.</desc>
+</programme>
+<programme start="20210806220000 +0800" stop="20210807002000 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210807002000 +0800" stop="20210807025000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210807025000 +0800" stop="20210807041500 +0800" channel="997">
+    <title lang="en">THE ROADS NOT TAKEN</title>
+    <desc lang="en">Follow a day in the life of Leo (Javier Bardem) and his daughter Molly (Elle Fanning) as she grapples with the challenges of her father"s chaotic mind.</desc>
+</programme>
+<programme start="20210807041500 +0800" stop="20210807060500 +0800" channel="997">
+    <title lang="en">BOMBSHELL</title>
+    <desc lang="en">Based on the real scandal, the film looks inside the most powerful and controversial media empire of all time, Fox News, and the explosive story of the women who brought down the infamous man who created it.</desc>
+</programme>
+<programme start="20210807060500 +0800" stop="20210807074000 +0800" channel="997">
+    <title lang="en">THE SPECIAL RELATIONSHIP</title>
+    <desc lang="en">The Special Relationship follows British Prime Minister Tony Blair and US President Bill Clinton as the two dynamic leaders become co-stars on the world stage.</desc>
+</programme>
+<programme start="20210807074000 +0800" stop="20210807093000 +0800" channel="997">
+    <title lang="en">WINCHELL</title>
+    <desc lang="en">Based on true story, this HBO Original Movie follows tabloid journalist Walter Winchell, who lived the way he wrote – controversially.</desc>
+</programme>
+<programme start="20210807093000 +0800" stop="20210807111500 +0800" channel="997">
+    <title lang="en">MIGHTY OAK</title>
+    <desc lang="en">A music manager’s life shattered when her brother, Vaughn, is killed in an accident. Years later when a young guitar prodigy enters her orbit, she is convinced that he is the reincarnation of Vaughn.</desc>
+</programme>
+<programme start="20210807111500 +0800" stop="20210807113000 +0800" channel="997">
+    <title lang="en">THE MEXICAN</title>
+    <desc lang="en">A clumsy criminal gets placed in a position where he has to save himself and his girlfriend from the Mafia.</desc>
+</programme>
+<programme start="20210807113000 +0800" stop="20210807132000 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210807132000 +0800" stop="20210807152000 +0800" channel="997">
+    <title lang="en">RONIN</title>
+    <desc lang="en">In a world where loyalties are easily abandoned and allegiances can be bought, a new and deadlier terrorist threat has emerged - free agent killers!</desc>
+</programme>
+<programme start="20210807152000 +0800" stop="20210807172000 +0800" channel="997">
+    <title lang="en">YOU"VE GOT MAIL</title>
+    <desc lang="en">Two rivals in real life unknowingly end up as soul mates over the Internet.</desc>
+</programme>
+<programme start="20210807172000 +0800" stop="20210807191000 +0800" channel="997">
+    <title lang="en">YOU, ME AND DUPREE</title>
+    <desc lang="en">A pair of newlyweds finds their blissful peace shattered by the groom"s best friend who overstays his welcome.</desc>
+</programme>
+<programme start="20210807191000 +0800" stop="20210807203500 +0800" channel="997">
+    <title lang="en">THE ROADS NOT TAKEN</title>
+    <desc lang="en">Follow a day in the life of Leo (Javier Bardem) and his daughter Molly (Elle Fanning) as she grapples with the challenges of her father"s chaotic mind.</desc>
+</programme>
+<programme start="20210807203500 +0800" stop="20210807220000 +0800" channel="997">
+    <title lang="en">ONCE</title>
+    <desc lang="en">A modern-day musical about a busker and an immigrant and their eventful week in Dublin as they write rehearse and record songs that tell their love story.</desc>
+</programme>
+<programme start="20210807220000 +0800" stop="20210807235000 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210807235000 +0800" stop="20210808014500 +0800" channel="997">
+    <title lang="en">LET THEM ALL TALK</title>
+    <desc lang="en">Celebrated novelist Alice Hughes and her two oldest friends embark on a journey aboard an ocean liner to England, where Alice is due to accept a prestigious literary award.</desc>
+</programme>
+<programme start="20210808014500 +0800" stop="20210808033500 +0800" channel="997">
+    <title lang="en">BOMBSHELL</title>
+    <desc lang="en">Based on the real scandal, the film looks inside the most powerful and controversial media empire of all time, Fox News, and the explosive story of the women who brought down the infamous man who created it.</desc>
+</programme>
+<programme start="20210808033500 +0800" stop="20210808050000 +0800" channel="997">
+    <title lang="en">LIGHTS OUT</title>
+    <desc lang="en">Rebecca and Martin both faced the same terrifying events that threatened their safety and sanity and is returning with a vengeance to torment the entire family.</desc>
+</programme>
+<programme start="20210808050000 +0800" stop="20210808053000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210808053000 +0800" stop="20210808073000 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210808073000 +0800" stop="20210808091000 +0800" channel="997">
+    <title lang="en">MIGHTY OAK</title>
+    <desc lang="en">A music manager’s life shattered when her brother, Vaughn, is killed in an accident. Years later when a young guitar prodigy enters her orbit, she is convinced that he is the reincarnation of Vaughn.</desc>
+</programme>
+<programme start="20210808091000 +0800" stop="20210808111000 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210808111000 +0800" stop="20210808120000 +0800" channel="997">
+    <title lang="en">TRINITY OF SHADOWS S1</title>
+    <desc lang="en">When Tze-Wei visits her grandfather at the nursing home, she runs into Ta-Dong. In that moment, Chi-Hsiao also shows up with Tze-Wei"s mother. The time has come for Ta-Dong to seek revenge.</desc>
+</programme>
+<programme start="20210808120000 +0800" stop="20210808134500 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210808134500 +0800" stop="20210808153500 +0800" channel="997">
+    <title lang="en">LET THEM ALL TALK</title>
+    <desc lang="en">Celebrated novelist Alice Hughes and her two oldest friends embark on a journey aboard an ocean liner to England, where Alice is due to accept a prestigious literary award.</desc>
+</programme>
+<programme start="20210808153500 +0800" stop="20210808174500 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210808174500 +0800" stop="20210808191500 +0800" channel="997">
+    <title lang="en">ONCE</title>
+    <desc lang="en">A modern-day musical about a busker and an immigrant and their eventful week in Dublin as they write rehearse and record songs that tell their love story.</desc>
+</programme>
+<programme start="20210808191500 +0800" stop="20210808210000 +0800" channel="997">
+    <title lang="en">TESLA</title>
+    <desc lang="en">Tesla chronicles the life of visionary inventor Nikola Tesla – his rivalry with Thomas Edison, his relationship with Anne Morgan, and his development of the modern AC current electrical supply system.</desc>
+</programme>
+<programme start="20210808210000 +0800" stop="20210808220000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210808220000 +0800" stop="20210809000000 +0800" channel="997">
+    <title lang="en">YESTERDAY</title>
+    <desc lang="en">After a mysterious blackout, a struggling songwriter discovers that he is the only one who remembers The Beatles and he rises to fame by passing off their songs as his own.</desc>
+</programme>
+<programme start="20210809000000 +0800" stop="20210809021000 +0800" channel="997">
+    <title lang="en">THELMA & LOUISE</title>
+    <desc lang="en">Two women on a fishing trip find themselves embarking on a crime spree across the American southwest after shooting an attempted rapist.</desc>
+</programme>
+<programme start="20210809021000 +0800" stop="20210809043500 +0800" channel="997">
+    <title lang="en">TRAFFIC</title>
+    <desc lang="en">Steven Soderbergh"s ambitious sprawling plot tackles the U.S. "War on Drugs" via three different stories and a large ensemble cast including Michael Douglas and Don Cheadle.</desc>
+</programme>
+<programme start="20210809043500 +0800" stop="20210809062500 +0800" channel="997">
+    <title lang="en">THE TIME TRAVELER"S WIFE</title>
+    <desc lang="en">Artist Clare Abshire shares a deep emotional bond with Henry De Tamble, a handsome librarian who travels involuntarily through time.</desc>
+</programme>
+<programme start="20210809062500 +0800" stop="20210809083000 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210809083000 +0800" stop="20210809104000 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210809104000 +0800" stop="20210809125000 +0800" channel="997">
+    <title lang="en">THELMA & LOUISE</title>
+    <desc lang="en">Two women on a fishing trip find themselves embarking on a crime spree across the American southwest after shooting an attempted rapist.</desc>
+</programme>
+<programme start="20210809125000 +0800" stop="20210809145000 +0800" channel="997">
+    <title lang="en">YESTERDAY</title>
+    <desc lang="en">After a mysterious blackout, a struggling songwriter discovers that he is the only one who remembers The Beatles and he rises to fame by passing off their songs as his own.</desc>
+</programme>
+<programme start="20210809145000 +0800" stop="20210809162500 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210809162500 +0800" stop="20210809181000 +0800" channel="997">
+    <title lang="en">TESLA</title>
+    <desc lang="en">Tesla chronicles the life of visionary inventor Nikola Tesla – his rivalry with Thomas Edison, his relationship with Anne Morgan, and his development of the modern AC current electrical supply system.</desc>
+</programme>
+<programme start="20210809181000 +0800" stop="20210809195500 +0800" channel="997">
+    <title lang="en">THE TIME TRAVELER"S WIFE</title>
+    <desc lang="en">Artist Clare Abshire shares a deep emotional bond with Henry De Tamble, a handsome librarian who travels involuntarily through time.</desc>
+</programme>
+<programme start="20210809195500 +0800" stop="20210809202000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210809202000 +0800" stop="20210809220000 +0800" channel="997">
+    <title lang="en">BLACKBIRD</title>
+    <desc lang="en">A family spanning three generations comes together over a weekend at their country house to be with their terminally ill mother for one last time.</desc>
+</programme>
+<programme start="20210809220000 +0800" stop="20210810000000 +0800" channel="997">
+    <title lang="en">JOKER</title>
+    <desc lang="en">An original, independent story that centers on the famous arch-nemesis of Batman - it explores Arthur Fleck and his journey from societal outcast and failed comedian to cackling criminal mastermind.</desc>
+</programme>
+<programme start="20210810000000 +0800" stop="20210810022000 +0800" channel="997">
+    <title lang="en">FLIGHT</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.</desc>
+</programme>
+<programme start="20210810022000 +0800" stop="20210810041500 +0800" channel="997">
+    <title lang="en">LABOR DAY</title>
+    <desc lang="en">The lives of a young boy and his mother are changed when they take in an escaped convict over the long Labor Day weekend.</desc>
+</programme>
+<programme start="20210810041500 +0800" stop="20210810060000 +0800" channel="997">
+    <title lang="en">MAMA</title>
+    <desc lang="en">Two abandoned young girls are fostered by an unknown entity which eventually follows them to their new suburban home.</desc>
+</programme>
+<programme start="20210810060000 +0800" stop="20210810073500 +0800" channel="997">
+    <title lang="en">THE GUILT TRIP</title>
+    <desc lang="en">A mother and son embark on one mother of a road trip and grow closer than ever!</desc>
+</programme>
+<programme start="20210810073500 +0800" stop="20210810093500 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210810093500 +0800" stop="20210810110500 +0800" channel="997">
+    <title lang="en">PSYCH 2: LASSIE COME HOME</title>
+    <desc lang="en">After being ambushed on the job and left for dead, Police Chief Carlton Lassiter has begun to see impossible things around his recovery clinic, prompting Shawn and Gus to return to help.</desc>
+</programme>
+<programme start="20210810110500 +0800" stop="20210810124500 +0800" channel="997">
+    <title lang="en">BLACKBIRD</title>
+    <desc lang="en">A family spanning three generations comes together over a weekend at their country house to be with their terminally ill mother for one last time.</desc>
+</programme>
+<programme start="20210810124500 +0800" stop="20210810150500 +0800" channel="997">
+    <title lang="en">FLIGHT</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.</desc>
+</programme>
+<programme start="20210810150500 +0800" stop="20210810163500 +0800" channel="997">
+    <title lang="en">UNDEFEATED</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
+</programme>
+<programme start="20210810163500 +0800" stop="20210810181500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S DIARY</title>
+    <desc lang="en">A single English woman decides to improve her life and chronicle the efforts in a diary.</desc>
+</programme>
+<programme start="20210810181500 +0800" stop="20210810200000 +0800" channel="997">
+    <title lang="en">BRIDGET JONES: THE EDGE OF REASON</title>
+    <desc lang="en">Bridget Jones, a self-doubting, career-minded, calorie-counting singleton, has found romantic bliss and nothing could be better; or could it?</desc>
+</programme>
+<programme start="20210810200000 +0800" stop="20210810220000 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S BABY</title>
+    <desc lang="en">The third instalment of the romantic comedy film franchise finds Bridget pregnant but with one hitch – she can’t be sure of the identity of her baby’s father.</desc>
+</programme>
+<programme start="20210810220000 +0800" stop="20210810230000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210810230000 +0800" stop="20210811005000 +0800" channel="997">
+    <title lang="en">LABOR DAY</title>
+    <desc lang="en">The lives of a young boy and his mother are changed when they take in an escaped convict over the long Labor Day weekend.</desc>
+</programme>
+<programme start="20210811005000 +0800" stop="20210811033000 +0800" channel="997">
+    <title lang="en">IT: CHAPTER 2</title>
+    <desc lang="en">27 years after he was defeated, Pennywise is back to terrorise the town of Derry. Now adults, the Losers have to come together to conquer their deepest fears and destroy Pennywise once and for all.</desc>
+</programme>
+<programme start="20210811033000 +0800" stop="20210811050000 +0800" channel="997">
+    <title lang="en">SPELL</title>
+    <desc lang="en">A man crash lands in Appalachia and awakens to find himself trapped by a traditional Hoodoo practitioner. To save his family, he must break free from her before the rise of the blood moon.</desc>
+</programme>
+<programme start="20210811050000 +0800" stop="20210811065000 +0800" channel="997">
+    <title lang="en">ME BEFORE YOU</title>
+    <desc lang="en">A young countryside woman and an affluent banker paralyzed in a tragic accident couldn"t have less in common, but in this heartbreakingly romance, they gain understanding, and ultimately love from one another.</desc>
+</programme>
+<programme start="20210811065000 +0800" stop="20210811081500 +0800" channel="997">
+    <title lang="en">UNDEFEATED</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
+</programme>
+<programme start="20210811081500 +0800" stop="20210811094500 +0800" channel="997">
+    <title lang="en">CHANCE OF A LIFETIME</title>
+    <desc lang="en">An overweight, homely woman unexpectedly finds love with her longtime male friend when they are forced into a fake marriage with each other.</desc>
+</programme>
+<programme start="20210811094500 +0800" stop="20210811113000 +0800" channel="997">
+    <title lang="en">THE RHYTHM SECTION</title>
+    <desc lang="en">When an ordinary woman on a path of self-destruction discovers that the plane crash that killed her family was not an accident, she enters a dark, complex world to seek revenge and find her own redemption.</desc>
+</programme>
+<programme start="20210811113000 +0800" stop="20210811123000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210811123000 +0800" stop="20210811143000 +0800" channel="997">
+    <title lang="en">THE MEXICAN</title>
+    <desc lang="en">A clumsy criminal gets placed in a position where he has to save himself and his girlfriend from the Mafia.</desc>
+</programme>
+<programme start="20210811143000 +0800" stop="20210811160500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S DIARY</title>
+    <desc lang="en">A single English woman decides to improve her life and chronicle the efforts in a diary.</desc>
+</programme>
+<programme start="20210811160500 +0800" stop="20210811174500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES: THE EDGE OF REASON</title>
+    <desc lang="en">Bridget Jones, a self-doubting, career-minded, calorie-counting singleton, has found romantic bliss and nothing could be better; or could it?</desc>
+</programme>
+<programme start="20210811174500 +0800" stop="20210811181000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210811181000 +0800" stop="20210811195000 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210811195000 +0800" stop="20210811220000 +0800" channel="997">
+    <title lang="en">THE BODYGUARD</title>
+    <desc lang="en">When beautiful superstar singer Rachel Marron receives death threats, she hires Frank Farmer, the best bodyguard in the business.</desc>
+</programme>
+<programme start="20210811220000 +0800" stop="20210812002000 +0800" channel="997">
+    <title lang="en">BABEL</title>
+    <desc lang="en">A tragic incident involving an American couple in Morocco sparks a chain of events for four families in different countries, as they struggle to overcome isolation, fear, and displacement.</desc>
+</programme>
+<programme start="20210812002000 +0800" stop="20210812024000 +0800" channel="997">
+    <title lang="en">MIDWAY</title>
+    <desc lang="en">Based on true events in the Battle of Midway, the film tells story of the leaders and soldiers who used their instincts, fortitude, and bravery to overcome the odds during World War II.</desc>
+</programme>
+<programme start="20210812024000 +0800" stop="20210812043000 +0800" channel="997">
+    <title lang="en">SLEEPY HOLLOW</title>
+    <desc lang="en">Johnny Depp plays a fearless constable who has to confront the horrifying legend of the Headless Horseman in this Tim Burton-directed horror.</desc>
+</programme>
+<programme start="20210812043000 +0800" stop="20210812062500 +0800" channel="997">
+    <title lang="en">TROUBLE WITH THE CURVE</title>
+    <desc lang="en">An aging baseball scout has to confront his mortality and failing eyesight whilst looking for prospects in another town.</desc>
+</programme>
+<programme start="20210812062500 +0800" stop="20210812081500 +0800" channel="997">
+    <title lang="en">THE RHYTHM SECTION</title>
+    <desc lang="en">When an ordinary woman on a path of self-destruction discovers that the plane crash that killed her family was not an accident, she enters a dark, complex world to seek revenge and find her own redemption.</desc>
+</programme>
+<programme start="20210812081500 +0800" stop="20210812101500 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210812101500 +0800" stop="20210812123500 +0800" channel="997">
+    <title lang="en">MIDWAY</title>
+    <desc lang="en">Based on true events in the Battle of Midway, the film tells story of the leaders and soldiers who used their instincts, fortitude, and bravery to overcome the odds during World War II.</desc>
+</programme>
+<programme start="20210812123500 +0800" stop="20210812142500 +0800" channel="997">
+    <title lang="en">LET THEM ALL TALK</title>
+    <desc lang="en">Celebrated novelist Alice Hughes and her two oldest friends embark on a journey aboard an ocean liner to England, where Alice is due to accept a prestigious literary award.</desc>
+</programme>
+<programme start="20210812142500 +0800" stop="20210812160500 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210812160500 +0800" stop="20210812181500 +0800" channel="997">
+    <title lang="en">THE BODYGUARD</title>
+    <desc lang="en">When beautiful superstar singer Rachel Marron receives death threats, she hires Frank Farmer, the best bodyguard in the business.</desc>
+</programme>
+<programme start="20210812181500 +0800" stop="20210812184000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210812184000 +0800" stop="20210812201000 +0800" channel="997">
+    <title lang="en">ONCE</title>
+    <desc lang="en">A modern-day musical about a busker and an immigrant and their eventful week in Dublin as they write rehearse and record songs that tell their love story.</desc>
+</programme>
+<programme start="20210812201000 +0800" stop="20210812220000 +0800" channel="997">
+    <title lang="en">TROUBLE WITH THE CURVE</title>
+    <desc lang="en">An aging baseball scout has to confront his mortality and failing eyesight whilst looking for prospects in another town.</desc>
+</programme>
+<programme start="20210812220000 +0800" stop="20210812234500 +0800" channel="997">
+    <title lang="en">INMATE #1: THE RISE OF DANNY TREJO</title>
+    <desc lang="en">This feature documentary reveals the extraordinary life journey of Hollywood"s most unlikely hero, Danny Trejo.</desc>
+</programme>
+<programme start="20210812234500 +0800" stop="20210813012500 +0800" channel="997">
+    <title lang="en">SLEEPY HOLLOW</title>
+    <desc lang="en">Johnny Depp plays a fearless constable who has to confront the horrifying legend of the Headless Horseman in this Tim Burton-directed horror.</desc>
+</programme>
+<programme start="20210813012500 +0800" stop="20210813031000 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210813031000 +0800" stop="20210813045000 +0800" channel="997">
+    <title lang="en">SPONTANEOUS</title>
+    <desc lang="en">When students inexplicably start to explode, Mara and her friends stay close together as they await possible combustion - wondering what part of life is worth living if it might end suddenly.</desc>
+</programme>
+<programme start="20210813045000 +0800" stop="20210813062500 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210813062500 +0800" stop="20210813081000 +0800" channel="997">
+    <title lang="en">MIGHTY OAK</title>
+    <desc lang="en">A music manager’s life shattered when her brother, Vaughn, is killed in an accident. Years later when a young guitar prodigy enters her orbit, she is convinced that he is the reincarnation of Vaughn.</desc>
+</programme>
+<programme start="20210813081000 +0800" stop="20210813100000 +0800" channel="997">
+    <title lang="en">LET THEM ALL TALK</title>
+    <desc lang="en">Celebrated novelist Alice Hughes and her two oldest friends embark on a journey aboard an ocean liner to England, where Alice is due to accept a prestigious literary award.</desc>
+</programme>
+<programme start="20210813100000 +0800" stop="20210813120500 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210813120500 +0800" stop="20210813135500 +0800" channel="997">
+    <title lang="en">INMATE #1: THE RISE OF DANNY TREJO</title>
+    <desc lang="en">This feature documentary reveals the extraordinary life journey of Hollywood"s most unlikely hero, Danny Trejo.</desc>
+</programme>
+<programme start="20210813135500 +0800" stop="20210813152000 +0800" channel="997">
+    <title lang="en">ONCE</title>
+    <desc lang="en">A modern-day musical about a busker and an immigrant and their eventful week in Dublin as they write rehearse and record songs that tell their love story.</desc>
+</programme>
+<programme start="20210813152000 +0800" stop="20210813170000 +0800" channel="997">
+    <title lang="en">THE PHOTOGRAPH</title>
+    <desc lang="en">When the estranged daughter of a late famed photographer discovers a photograph tucked away in a safe-deposit box, she finds herself on a journey delving into her mother"s early life.</desc>
+</programme>
+<programme start="20210813170000 +0800" stop="20210813183500 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210813183500 +0800" stop="20210813201000 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210813201000 +0800" stop="20210813220000 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210813220000 +0800" stop="20210813234000 +0800" channel="997">
+    <title lang="en">NEVER RARELY SOMETIMES ALWAYS</title>
+    <desc lang="en">Faced with an unintended pregnancy and a lack of local support, Autumn and her cousin, Skylar, travel across state lines to New York City on a fraught journey of friendship, bravery and compassion.</desc>
+</programme>
+<programme start="20210813234000 +0800" stop="20210814004000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210814004000 +0800" stop="20210814024000 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210814024000 +0800" stop="20210814040500 +0800" channel="997">
+    <title lang="en">BANANA SPLIT </title>
+    <desc lang="en">Over the course of a summer, two teenage girls develop the perfect kindred spirit friendship, with one problem: one of them is dating the other’s ex.</desc>
+</programme>
+<programme start="20210814040500 +0800" stop="20210814061000 +0800" channel="997">
+    <title lang="en">ARGO</title>
+    <desc lang="en">A daring CIA agent plans a fake movie set-up to rescue six Americans in Tehran.</desc>
+</programme>
+<programme start="20210814061000 +0800" stop="20210814082000 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210814082000 +0800" stop="20210814101000 +0800" channel="997">
+    <title lang="en">THE PHOTOGRAPH</title>
+    <desc lang="en">When the estranged daughter of a late famed photographer discovers a photograph tucked away in a safe-deposit box, she finds herself on a journey delving into her mother"s early life.</desc>
+</programme>
+<programme start="20210814101000 +0800" stop="20210814104000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210814104000 +0800" stop="20210814122500 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210814122500 +0800" stop="20210814140500 +0800" channel="997">
+    <title lang="en">ENTOURAGE (2015)</title>
+    <desc lang="en">The boys are back! Vince, E, Drama and Turtle make a splash on the big screen in this raucous comedy adaptation of the hit HBO Original series.</desc>
+</programme>
+<programme start="20210814140500 +0800" stop="20210814160500 +0800" channel="997">
+    <title lang="en">YESTERDAY</title>
+    <desc lang="en">After a mysterious blackout, a struggling songwriter discovers that he is the only one who remembers The Beatles and he rises to fame by passing off their songs as his own.</desc>
+</programme>
+<programme start="20210814160500 +0800" stop="20210814180000 +0800" channel="997">
+    <title lang="en">THE LOST HUSBAND</title>
+    <desc lang="en">Trying to put her life back together after the death of her husband, Libby and her children move to her estranged Aunt"s goat farm in central Texas.</desc>
+</programme>
+<programme start="20210814180000 +0800" stop="20210814200500 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210814200500 +0800" stop="20210814220000 +0800" channel="997">
+    <title lang="en">LABOR DAY</title>
+    <desc lang="en">The lives of a young boy and his mother are changed when they take in an escaped convict over the long Labor Day weekend.</desc>
+</programme>
+<programme start="20210814220000 +0800" stop="20210815000000 +0800" channel="997">
+    <title lang="en">ARGO</title>
+    <desc lang="en">A daring CIA agent plans a fake movie set-up to rescue six Americans in Tehran.</desc>
+</programme>
+<programme start="20210815000000 +0800" stop="20210815013500 +0800" channel="997">
+    <title lang="en">BLACKBIRD</title>
+    <desc lang="en">A family spanning three generations comes together over a weekend at their country house to be with their terminally ill mother for one last time.</desc>
+</programme>
+<programme start="20210815013500 +0800" stop="20210815030000 +0800" channel="997">
+    <title lang="en">BLUE STORY</title>
+    <desc lang="en">Inspired by true stories from rapper-turned-director Rapman, comes a hard-hitting crime drama about two friends growing up in South East London who end up on rival sides in a street war.</desc>
+</programme>
+<programme start="20210815030000 +0800" stop="20210815044000 +0800" channel="997">
+    <title lang="en">THE FESTIVAL </title>
+    <desc lang="en">Joe Thomas stars as a graduate who gets dumped by his girlfriend and goes to a music festival to get over it in this outrageous comedy from the creators of The Inbetweeners.</desc>
+</programme>
+<programme start="20210815044000 +0800" stop="20210815062000 +0800" channel="997">
+    <title lang="en">HUMAN CAPITAL</title>
+    <desc lang="en">The lives of two families from across the social divide become fatefully intertwined following an impulsive business deal and a tragic hit-and-run accident.</desc>
+</programme>
+<programme start="20210815062000 +0800" stop="20210815082000 +0800" channel="997">
+    <title lang="en">YESTERDAY</title>
+    <desc lang="en">After a mysterious blackout, a struggling songwriter discovers that he is the only one who remembers The Beatles and he rises to fame by passing off their songs as his own.</desc>
+</programme>
+<programme start="20210815082000 +0800" stop="20210815100000 +0800" channel="997">
+    <title lang="en">ENTOURAGE (2015)</title>
+    <desc lang="en">The boys are back! Vince, E, Drama and Turtle make a splash on the big screen in this raucous comedy adaptation of the hit HBO Original series.</desc>
+</programme>
+<programme start="20210815100000 +0800" stop="20210815115000 +0800" channel="997">
+    <title lang="en">THE LOST HUSBAND</title>
+    <desc lang="en">Trying to put her life back together after the death of her husband, Libby and her children move to her estranged Aunt"s goat farm in central Texas.</desc>
+</programme>
+<programme start="20210815115000 +0800" stop="20210815134000 +0800" channel="997">
+    <title lang="en">LABOR DAY</title>
+    <desc lang="en">The lives of a young boy and his mother are changed when they take in an escaped convict over the long Labor Day weekend.</desc>
+</programme>
+<programme start="20210815134000 +0800" stop="20210815152000 +0800" channel="997">
+    <title lang="en">BLACKBIRD</title>
+    <desc lang="en">A family spanning three generations comes together over a weekend at their country house to be with their terminally ill mother for one last time.</desc>
+</programme>
+<programme start="20210815152000 +0800" stop="20210815170500 +0800" channel="997">
+    <title lang="en">THE TIME TRAVELER"S WIFE</title>
+    <desc lang="en">Artist Clare Abshire shares a deep emotional bond with Henry De Tamble, a handsome librarian who travels involuntarily through time.</desc>
+</programme>
+<programme start="20210815170500 +0800" stop="20210815190000 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210815190000 +0800" stop="20210815210000 +0800" channel="997">
+    <title lang="en">RONIN</title>
+    <desc lang="en">In a world where loyalties are easily abandoned and allegiances can be bought, a new and deadlier terrorist threat has emerged - free agent killers!</desc>
+</programme>
+<programme start="20210815210000 +0800" stop="20210815220000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210815220000 +0800" stop="20210815233500 +0800" channel="997">
+    <title lang="en">HUMAN CAPITAL</title>
+    <desc lang="en">The lives of two families from across the social divide become fatefully intertwined following an impulsive business deal and a tragic hit-and-run accident.</desc>
+</programme>
+<programme start="20210815233500 +0800" stop="20210816014000 +0800" channel="997">
+    <title lang="en">JOKER</title>
+    <desc lang="en">An original, independent story that centers on the famous arch-nemesis of Batman - it explores Arthur Fleck and his journey from societal outcast and failed comedian to cackling criminal mastermind.</desc>
+</programme>
+<programme start="20210816014000 +0800" stop="20210816031500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S DIARY</title>
+    <desc lang="en">A single English woman decides to improve her life and chronicle the efforts in a diary.</desc>
+</programme>
+<programme start="20210816031500 +0800" stop="20210816050000 +0800" channel="997">
+    <title lang="en">BRIDGET JONES: THE EDGE OF REASON</title>
+    <desc lang="en">Bridget Jones, a self-doubting, career-minded, calorie-counting singleton, has found romantic bliss and nothing could be better; or could it?</desc>
+</programme>
+<programme start="20210816050000 +0800" stop="20210816070500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S BABY</title>
+    <desc lang="en">The third instalment of the romantic comedy film franchise finds Bridget pregnant but with one hitch – she can’t be sure of the identity of her baby’s father.</desc>
+</programme>
+<programme start="20210816070500 +0800" stop="20210816092500 +0800" channel="997">
+    <title lang="en">MIDWAY</title>
+    <desc lang="en">Based on true events in the Battle of Midway, the film tells story of the leaders and soldiers who used their instincts, fortitude, and bravery to overcome the odds during World War II.</desc>
+</programme>
+<programme start="20210816092500 +0800" stop="20210816105500 +0800" channel="997">
+    <title lang="en">THE ROADS NOT TAKEN</title>
+    <desc lang="en">Follow a day in the life of Leo (Javier Bardem) and his daughter Molly (Elle Fanning) as she grapples with the challenges of her father"s chaotic mind.</desc>
+</programme>
+<programme start="20210816105500 +0800" stop="20210816125500 +0800" channel="997">
+    <title lang="en">RONIN</title>
+    <desc lang="en">In a world where loyalties are easily abandoned and allegiances can be bought, a new and deadlier terrorist threat has emerged - free agent killers!</desc>
+</programme>
+<programme start="20210816125500 +0800" stop="20210816145000 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210816145000 +0800" stop="20210816163500 +0800" channel="997">
+    <title lang="en">YOU, ME AND DUPREE</title>
+    <desc lang="en">A pair of newlyweds finds their blissful peace shattered by the groom"s best friend who overstays his welcome.</desc>
+</programme>
+<programme start="20210816163500 +0800" stop="20210816181000 +0800" channel="997">
+    <title lang="en">UNDEFEATED</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
+</programme>
+<programme start="20210816181000 +0800" stop="20210816201000 +0800" channel="997">
+    <title lang="en">YOU"VE GOT MAIL</title>
+    <desc lang="en">Two rivals in real life unknowingly end up as soul mates over the Internet.</desc>
+</programme>
+<programme start="20210816201000 +0800" stop="20210816220000 +0800" channel="997">
+    <title lang="en">INMATE #1: THE RISE OF DANNY TREJO</title>
+    <desc lang="en">This feature documentary reveals the extraordinary life journey of Hollywood"s most unlikely hero, Danny Trejo.</desc>
+</programme>
+<programme start="20210816220000 +0800" stop="20210816233500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S DIARY</title>
+    <desc lang="en">A single English woman decides to improve her life and chronicle the efforts in a diary.</desc>
+</programme>
+<programme start="20210816233500 +0800" stop="20210817011500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES: THE EDGE OF REASON</title>
+    <desc lang="en">Bridget Jones, a self-doubting, career-minded, calorie-counting singleton, has found romantic bliss and nothing could be better; or could it?</desc>
+</programme>
+<programme start="20210817011500 +0800" stop="20210817031500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S BABY</title>
+    <desc lang="en">The third instalment of the romantic comedy film franchise finds Bridget pregnant but with one hitch – she can’t be sure of the identity of her baby’s father.</desc>
+</programme>
+<programme start="20210817031500 +0800" stop="20210817044000 +0800" channel="997">
+    <title lang="en">PSYCH 2: LASSIE COME HOME</title>
+    <desc lang="en">After being ambushed on the job and left for dead, Police Chief Carlton Lassiter has begun to see impossible things around his recovery clinic, prompting Shawn and Gus to return to help.</desc>
+</programme>
+<programme start="20210817044000 +0800" stop="20210817064500 +0800" channel="997">
+    <title lang="en">QUEEN & SLIM </title>
+    <desc lang="en">On a first date, a black man and woman are stopped by a policeman over a minor traffic infraction. As the situation spirals, the man kills the officer in self-defense, forcing the two to go on the run.</desc>
+</programme>
+<programme start="20210817064500 +0800" stop="20210817081000 +0800" channel="997">
+    <title lang="en">THE ROADS NOT TAKEN</title>
+    <desc lang="en">Follow a day in the life of Leo (Javier Bardem) and his daughter Molly (Elle Fanning) as she grapples with the challenges of her father"s chaotic mind.</desc>
+</programme>
+<programme start="20210817081000 +0800" stop="20210817095500 +0800" channel="997">
+    <title lang="en">YOU, ME AND DUPREE</title>
+    <desc lang="en">A pair of newlyweds finds their blissful peace shattered by the groom"s best friend who overstays his welcome.</desc>
+</programme>
+<programme start="20210817095500 +0800" stop="20210817114000 +0800" channel="997">
+    <title lang="en">INMATE #1: THE RISE OF DANNY TREJO</title>
+    <desc lang="en">This feature documentary reveals the extraordinary life journey of Hollywood"s most unlikely hero, Danny Trejo.</desc>
+</programme>
+<programme start="20210817114000 +0800" stop="20210817130500 +0800" channel="997">
+    <title lang="en">UNDEFEATED</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
+</programme>
+<programme start="20210817130500 +0800" stop="20210817143500 +0800" channel="997">
+    <title lang="en">THE SPECIAL RELATIONSHIP</title>
+    <desc lang="en">The Special Relationship follows British Prime Minister Tony Blair and US President Bill Clinton as the two dynamic leaders become co-stars on the world stage.</desc>
+</programme>
+<programme start="20210817143500 +0800" stop="20210817160500 +0800" channel="997">
+    <title lang="en">PSYCH 2: LASSIE COME HOME</title>
+    <desc lang="en">After being ambushed on the job and left for dead, Police Chief Carlton Lassiter has begun to see impossible things around his recovery clinic, prompting Shawn and Gus to return to help.</desc>
+</programme>
+<programme start="20210817160500 +0800" stop="20210817180500 +0800" channel="997">
+    <title lang="en">YOU"VE GOT MAIL</title>
+    <desc lang="en">Two rivals in real life unknowingly end up as soul mates over the Internet.</desc>
+</programme>
+<programme start="20210817180500 +0800" stop="20210817195000 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210817195000 +0800" stop="20210817220000 +0800" channel="997">
+    <title lang="en">QUEEN & SLIM </title>
+    <desc lang="en">On a first date, a black man and woman are stopped by a policeman over a minor traffic infraction. As the situation spirals, the man kills the officer in self-defense, forcing the two to go on the run.</desc>
+</programme>
+<programme start="20210817220000 +0800" stop="20210817231000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210817231000 +0800" stop="20210818010000 +0800" channel="997">
+    <title lang="en">LET THEM ALL TALK</title>
+    <desc lang="en">Celebrated novelist Alice Hughes and her two oldest friends embark on a journey aboard an ocean liner to England, where Alice is due to accept a prestigious literary award.</desc>
+</programme>
+<programme start="20210818010000 +0800" stop="20210818023500 +0800" channel="997">
+    <title lang="en">MAMA</title>
+    <desc lang="en">Two abandoned young girls are fostered by an unknown entity which eventually follows them to their new suburban home.</desc>
+</programme>
+<programme start="20210818023500 +0800" stop="20210818041500 +0800" channel="997">
+    <title lang="en">THE PHOTOGRAPH</title>
+    <desc lang="en">When the estranged daughter of a late famed photographer discovers a photograph tucked away in a safe-deposit box, she finds herself on a journey delving into her mother"s early life.</desc>
+</programme>
+<programme start="20210818041500 +0800" stop="20210818060500 +0800" channel="997">
+    <title lang="en">SPONTANEOUS</title>
+    <desc lang="en">When students inexplicably start to explode, Mara and her friends stay close together as they await possible combustion - wondering what part of life is worth living if it might end suddenly.</desc>
+</programme>
+<programme start="20210818060500 +0800" stop="20210818080000 +0800" channel="997">
+    <title lang="en">LET THEM ALL TALK</title>
+    <desc lang="en">Celebrated novelist Alice Hughes and her two oldest friends embark on a journey aboard an ocean liner to England, where Alice is due to accept a prestigious literary award.</desc>
+</programme>
+<programme start="20210818080000 +0800" stop="20210818082500 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210818082500 +0800" stop="20210818101500 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210818101500 +0800" stop="20210818121500 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210818121500 +0800" stop="20210818132500 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210818132500 +0800" stop="20210818150000 +0800" channel="997">
+    <title lang="en">THE GUILT TRIP</title>
+    <desc lang="en">A mother and son embark on one mother of a road trip and grow closer than ever!</desc>
+</programme>
+<programme start="20210818150000 +0800" stop="20210818165000 +0800" channel="997">
+    <title lang="en">WINCHELL</title>
+    <desc lang="en">Based on true story, this HBO Original Movie follows tabloid journalist Walter Winchell, who lived the way he wrote – controversially.</desc>
+</programme>
+<programme start="20210818165000 +0800" stop="20210818184500 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210818184500 +0800" stop="20210818202500 +0800" channel="997">
+    <title lang="en">THE PHOTOGRAPH</title>
+    <desc lang="en">When the estranged daughter of a late famed photographer discovers a photograph tucked away in a safe-deposit box, she finds herself on a journey delving into her mother"s early life.</desc>
+</programme>
+<programme start="20210818202500 +0800" stop="20210818220000 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210818220000 +0800" stop="20210818235000 +0800" channel="997">
+    <title lang="en">CATS</title>
+    <desc lang="en">Oscar®-winning director Tom Hooper reimagines Andrew Lloyd Webber"s record-shattering musical.</desc>
+</programme>
+<programme start="20210818235000 +0800" stop="20210819013500 +0800" channel="997">
+    <title lang="en">BOMBSHELL</title>
+    <desc lang="en">Based on the real scandal, the film looks inside the most powerful and controversial media empire of all time, Fox News, and the explosive story of the women who brought down the infamous man who created it.</desc>
+</programme>
+<programme start="20210819013500 +0800" stop="20210819031500 +0800" channel="997">
+    <title lang="en">SPONTANEOUS</title>
+    <desc lang="en">When students inexplicably start to explode, Mara and her friends stay close together as they await possible combustion - wondering what part of life is worth living if it might end suddenly.</desc>
+</programme>
+<programme start="20210819031500 +0800" stop="20210819044000 +0800" channel="997">
+    <title lang="en">BLUE STORY</title>
+    <desc lang="en">Inspired by true stories from rapper-turned-director Rapman, comes a hard-hitting crime drama about two friends growing up in South East London who end up on rival sides in a street war.</desc>
+</programme>
+<programme start="20210819044000 +0800" stop="20210819060000 +0800" channel="997">
+    <title lang="en">BANANA SPLIT </title>
+    <desc lang="en">Over the course of a summer, two teenage girls develop the perfect kindred spirit friendship, with one problem: one of them is dating the other’s ex.</desc>
+</programme>
+<programme start="20210819060000 +0800" stop="20210819075000 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210819075000 +0800" stop="20210819095500 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210819095500 +0800" stop="20210819115000 +0800" channel="997">
+    <title lang="en">RONIN</title>
+    <desc lang="en">In a world where loyalties are easily abandoned and allegiances can be bought, a new and deadlier terrorist threat has emerged - free agent killers!</desc>
+</programme>
+<programme start="20210819115000 +0800" stop="20210819132500 +0800" channel="997">
+    <title lang="en">THE GUILT TRIP</title>
+    <desc lang="en">A mother and son embark on one mother of a road trip and grow closer than ever!</desc>
+</programme>
+<programme start="20210819132500 +0800" stop="20210819150000 +0800" channel="997">
+    <title lang="en">ENTOURAGE (2015)</title>
+    <desc lang="en">The boys are back! Vince, E, Drama and Turtle make a splash on the big screen in this raucous comedy adaptation of the hit HBO Original series.</desc>
+</programme>
+<programme start="20210819150000 +0800" stop="20210819163000 +0800" channel="997">
+    <title lang="en">CHANCE OF A LIFETIME</title>
+    <desc lang="en">An overweight, homely woman unexpectedly finds love with her longtime male friend when they are forced into a fake marriage with each other.</desc>
+</programme>
+<programme start="20210819163000 +0800" stop="20210819181000 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210819181000 +0800" stop="20210819200500 +0800" channel="997">
+    <title lang="en">CATS</title>
+    <desc lang="en">Oscar®-winning director Tom Hooper reimagines Andrew Lloyd Webber"s record-shattering musical.</desc>
+</programme>
+<programme start="20210819200500 +0800" stop="20210819220000 +0800" channel="997">
+    <title lang="en">YESTERDAY</title>
+    <desc lang="en">After a mysterious blackout, a struggling songwriter discovers that he is the only one who remembers The Beatles and he rises to fame by passing off their songs as his own.</desc>
+</programme>
+<programme start="20210819220000 +0800" stop="20210819234500 +0800" channel="997">
+    <title lang="en">THE WAY I SEE IT</title>
+    <desc lang="en">A rare glimpse inside the American presidency through the unique lens of former Chief Official White House Photographer, Pete Souza.</desc>
+</programme>
+<programme start="20210819234500 +0800" stop="20210820021000 +0800" channel="997">
+    <title lang="en">TRAFFIC</title>
+    <desc lang="en">Steven Soderbergh"s ambitious sprawling plot tackles the U.S. "War on Drugs" via three different stories and a large ensemble cast including Michael Douglas and Don Cheadle.</desc>
+</programme>
+<programme start="20210820021000 +0800" stop="20210820041000 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210820041000 +0800" stop="20210820062000 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210820062000 +0800" stop="20210820075500 +0800" channel="997">
+    <title lang="en">ENTOURAGE (2015)</title>
+    <desc lang="en">The boys are back! Vince, E, Drama and Turtle make a splash on the big screen in this raucous comedy adaptation of the hit HBO Original series.</desc>
+</programme>
+<programme start="20210820075500 +0800" stop="20210820100000 +0800" channel="997">
+    <title lang="en">RONIN</title>
+    <desc lang="en">In a world where loyalties are easily abandoned and allegiances can be bought, a new and deadlier terrorist threat has emerged - free agent killers!</desc>
+</programme>
+<programme start="20210820100000 +0800" stop="20210820114000 +0800" channel="997">
+    <title lang="en">HUMAN CAPITAL</title>
+    <desc lang="en">The lives of two families from across the social divide become fatefully intertwined following an impulsive business deal and a tragic hit-and-run accident.</desc>
+</programme>
+<programme start="20210820114000 +0800" stop="20210820132500 +0800" channel="997">
+    <title lang="en">THE WAY I SEE IT</title>
+    <desc lang="en">A rare glimpse inside the American presidency through the unique lens of former Chief Official White House Photographer, Pete Souza.</desc>
+</programme>
+<programme start="20210820132500 +0800" stop="20210820153500 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210820153500 +0800" stop="20210820160500 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210820160500 +0800" stop="20210820175500 +0800" channel="997">
+    <title lang="en">YOU, ME AND DUPREE</title>
+    <desc lang="en">A pair of newlyweds finds their blissful peace shattered by the groom"s best friend who overstays his welcome.</desc>
+</programme>
+<programme start="20210820175500 +0800" stop="20210820195000 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210820195000 +0800" stop="20210820220000 +0800" channel="997">
+    <title lang="en">FLIGHT</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.</desc>
+</programme>
+<programme start="20210820220000 +0800" stop="20210820235500 +0800" channel="997">
+    <title lang="en">TROUBLE WITH THE CURVE</title>
+    <desc lang="en">An aging baseball scout has to confront his mortality and failing eyesight whilst looking for prospects in another town.</desc>
+</programme>
+<programme start="20210820235500 +0800" stop="20210821010500 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210821010500 +0800" stop="20210821033000 +0800" channel="997">
+    <title lang="en">BABEL</title>
+    <desc lang="en">A tragic incident involving an American couple in Morocco sparks a chain of events for four families in different countries, as they struggle to overcome isolation, fear, and displacement.</desc>
+</programme>
+<programme start="20210821033000 +0800" stop="20210821053500 +0800" channel="997">
+    <title lang="en">JOKER</title>
+    <desc lang="en">An original, independent story that centers on the famous arch-nemesis of Batman - it explores Arthur Fleck and his journey from societal outcast and failed comedian to cackling criminal mastermind.</desc>
+</programme>
+<programme start="20210821053500 +0800" stop="20210821071000 +0800" channel="997">
+    <title lang="en">UNDEFEATED</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
+</programme>
+<programme start="20210821071000 +0800" stop="20210821085000 +0800" channel="997">
+    <title lang="en">HUMAN CAPITAL</title>
+    <desc lang="en">The lives of two families from across the social divide become fatefully intertwined following an impulsive business deal and a tragic hit-and-run accident.</desc>
+</programme>
+<programme start="20210821085000 +0800" stop="20210821111000 +0800" channel="997">
+    <title lang="en">FLIGHT</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.</desc>
+</programme>
+<programme start="20210821111000 +0800" stop="20210821130500 +0800" channel="997">
+    <title lang="en">ME BEFORE YOU</title>
+    <desc lang="en">A young countryside woman and an affluent banker paralyzed in a tragic accident couldn"t have less in common, but in this heartbreakingly romance, they gain understanding, and ultimately love from one another.</desc>
+</programme>
+<programme start="20210821130500 +0800" stop="20210821150000 +0800" channel="997">
+    <title lang="en">TROUBLE WITH THE CURVE</title>
+    <desc lang="en">An aging baseball scout has to confront his mortality and failing eyesight whilst looking for prospects in another town.</desc>
+</programme>
+<programme start="20210821150000 +0800" stop="20210821164000 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210821164000 +0800" stop="20210821182500 +0800" channel="997">
+    <title lang="en">THE TIME TRAVELER"S WIFE</title>
+    <desc lang="en">Artist Clare Abshire shares a deep emotional bond with Henry De Tamble, a handsome librarian who travels involuntarily through time.</desc>
+</programme>
+<programme start="20210821182500 +0800" stop="20210821195500 +0800" channel="997">
+    <title lang="en">UNDEFEATED</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
+</programme>
+<programme start="20210821195500 +0800" stop="20210821220000 +0800" channel="997">
+    <title lang="en">THELMA & LOUISE</title>
+    <desc lang="en">Two women on a fishing trip find themselves embarking on a crime spree across the American southwest after shooting an attempted rapist.</desc>
+</programme>
+<programme start="20210821220000 +0800" stop="20210822001500 +0800" channel="997">
+    <title lang="en">MIDWAY</title>
+    <desc lang="en">Based on true events in the Battle of Midway, the film tells story of the leaders and soldiers who used their instincts, fortitude, and bravery to overcome the odds during World War II.</desc>
+</programme>
+<programme start="20210822001500 +0800" stop="20210822020500 +0800" channel="997">
+    <title lang="en">INMATE #1: THE RISE OF DANNY TREJO</title>
+    <desc lang="en">This feature documentary reveals the extraordinary life journey of Hollywood"s most unlikely hero, Danny Trejo.</desc>
+</programme>
+<programme start="20210822020500 +0800" stop="20210822040000 +0800" channel="997">
+    <title lang="en">THE RHYTHM SECTION</title>
+    <desc lang="en">When an ordinary woman on a path of self-destruction discovers that the plane crash that killed her family was not an accident, she enters a dark, complex world to seek revenge and find her own redemption.</desc>
+</programme>
+<programme start="20210822040000 +0800" stop="20210822060000 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210822060000 +0800" stop="20210822074000 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210822074000 +0800" stop="20210822093000 +0800" channel="997">
+    <title lang="en">ME BEFORE YOU</title>
+    <desc lang="en">A young countryside woman and an affluent banker paralyzed in a tragic accident couldn"t have less in common, but in this heartbreakingly romance, they gain understanding, and ultimately love from one another.</desc>
+</programme>
+<programme start="20210822093000 +0800" stop="20210822113500 +0800" channel="997">
+    <title lang="en">THELMA & LOUISE</title>
+    <desc lang="en">Two women on a fishing trip find themselves embarking on a crime spree across the American southwest after shooting an attempted rapist.</desc>
+</programme>
+<programme start="20210822113500 +0800" stop="20210822132500 +0800" channel="997">
+    <title lang="en">THE RHYTHM SECTION</title>
+    <desc lang="en">When an ordinary woman on a path of self-destruction discovers that the plane crash that killed her family was not an accident, she enters a dark, complex world to seek revenge and find her own redemption.</desc>
+</programme>
+<programme start="20210822132500 +0800" stop="20210822151000 +0800" channel="997">
+    <title lang="en">INMATE #1: THE RISE OF DANNY TREJO</title>
+    <desc lang="en">This feature documentary reveals the extraordinary life journey of Hollywood"s most unlikely hero, Danny Trejo.</desc>
+</programme>
+<programme start="20210822151000 +0800" stop="20210822171000 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210822171000 +0800" stop="20210822190000 +0800" channel="997">
+    <title lang="en">THE LOST HUSBAND</title>
+    <desc lang="en">Trying to put her life back together after the death of her husband, Libby and her children move to her estranged Aunt"s goat farm in central Texas.</desc>
+</programme>
+<programme start="20210822190000 +0800" stop="20210822205000 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210822205000 +0800" stop="20210822220000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210822220000 +0800" stop="20210823000500 +0800" channel="997">
+    <title lang="en">THE BODYGUARD</title>
+    <desc lang="en">When beautiful superstar singer Rachel Marron receives death threats, she hires Frank Farmer, the best bodyguard in the business.</desc>
+</programme>
+<programme start="20210823000500 +0800" stop="20210823020500 +0800" channel="997">
+    <title lang="en">ARGO</title>
+    <desc lang="en">A daring CIA agent plans a fake movie set-up to rescue six Americans in Tehran.</desc>
+</programme>
+<programme start="20210823020500 +0800" stop="20210823033500 +0800" channel="997">
+    <title lang="en">THE SPECIAL RELATIONSHIP</title>
+    <desc lang="en">The Special Relationship follows British Prime Minister Tony Blair and US President Bill Clinton as the two dynamic leaders become co-stars on the world stage.</desc>
+</programme>
+<programme start="20210823033500 +0800" stop="20210823040000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210823040000 +0800" stop="20210823060500 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210823060500 +0800" stop="20210823075500 +0800" channel="997">
+    <title lang="en">THE LOST HUSBAND</title>
+    <desc lang="en">Trying to put her life back together after the death of her husband, Libby and her children move to her estranged Aunt"s goat farm in central Texas.</desc>
+</programme>
+<programme start="20210823075500 +0800" stop="20210823093000 +0800" channel="997">
+    <title lang="en">THE GUILT TRIP</title>
+    <desc lang="en">A mother and son embark on one mother of a road trip and grow closer than ever!</desc>
+</programme>
+<programme start="20210823093000 +0800" stop="20210823112000 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210823112000 +0800" stop="20210823125000 +0800" channel="997">
+    <title lang="en">THE SPECIAL RELATIONSHIP</title>
+    <desc lang="en">The Special Relationship follows British Prime Minister Tony Blair and US President Bill Clinton as the two dynamic leaders become co-stars on the world stage.</desc>
+</programme>
+<programme start="20210823125000 +0800" stop="20210823143000 +0800" channel="997">
+    <title lang="en">MIGHTY OAK</title>
+    <desc lang="en">A music manager’s life shattered when her brother, Vaughn, is killed in an accident. Years later when a young guitar prodigy enters her orbit, she is convinced that he is the reincarnation of Vaughn.</desc>
+</programme>
+<programme start="20210823143000 +0800" stop="20210823163000 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210823163000 +0800" stop="20210823180500 +0800" channel="997">
+    <title lang="en">CHANCE OF A LIFETIME</title>
+    <desc lang="en">An overweight, homely woman unexpectedly finds love with her longtime male friend when they are forced into a fake marriage with each other.</desc>
+</programme>
+<programme start="20210823180500 +0800" stop="20210823201500 +0800" channel="997">
+    <title lang="en">THE BODYGUARD</title>
+    <desc lang="en">When beautiful superstar singer Rachel Marron receives death threats, she hires Frank Farmer, the best bodyguard in the business.</desc>
+</programme>
+<programme start="20210823201500 +0800" stop="20210823220000 +0800" channel="997">
+    <title lang="en">THE WAY I SEE IT</title>
+    <desc lang="en">A rare glimpse inside the American presidency through the unique lens of former Chief Official White House Photographer, Pete Souza.</desc>
+</programme>
+<programme start="20210823220000 +0800" stop="20210823232500 +0800" channel="997">
+    <title lang="en">BLUE STORY</title>
+    <desc lang="en">Inspired by true stories from rapper-turned-director Rapman, comes a hard-hitting crime drama about two friends growing up in South East London who end up on rival sides in a street war.</desc>
+</programme>
+<programme start="20210823232500 +0800" stop="20210824010500 +0800" channel="997">
+    <title lang="en">TESLA</title>
+    <desc lang="en">Tesla chronicles the life of visionary inventor Nikola Tesla – his rivalry with Thomas Edison, his relationship with Anne Morgan, and his development of the modern AC current electrical supply system.</desc>
+</programme>
+<programme start="20210824010500 +0800" stop="20210824024500 +0800" channel="997">
+    <title lang="en">SLEEPY HOLLOW</title>
+    <desc lang="en">Johnny Depp plays a fearless constable who has to confront the horrifying legend of the Headless Horseman in this Tim Burton-directed horror.</desc>
+</programme>
+<programme start="20210824024500 +0800" stop="20210824040500 +0800" channel="997">
+    <title lang="en">SPELL</title>
+    <desc lang="en">A man crash lands in Appalachia and awakens to find himself trapped by a traditional Hoodoo practitioner. To save his family, he must break free from her before the rise of the blood moon.</desc>
+</programme>
+<programme start="20210824040500 +0800" stop="20210824060000 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210824060000 +0800" stop="20210824074500 +0800" channel="997">
+    <title lang="en">TESLA</title>
+    <desc lang="en">Tesla chronicles the life of visionary inventor Nikola Tesla – his rivalry with Thomas Edison, his relationship with Anne Morgan, and his development of the modern AC current electrical supply system.</desc>
+</programme>
+<programme start="20210824074500 +0800" stop="20210824092500 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210824092500 +0800" stop="20210824111000 +0800" channel="997">
+    <title lang="en">THE WAY I SEE IT</title>
+    <desc lang="en">A rare glimpse inside the American presidency through the unique lens of former Chief Official White House Photographer, Pete Souza.</desc>
+</programme>
+<programme start="20210824111000 +0800" stop="20210824125500 +0800" channel="997">
+    <title lang="en">MIGHTY OAK</title>
+    <desc lang="en">A music manager’s life shattered when her brother, Vaughn, is killed in an accident. Years later when a young guitar prodigy enters her orbit, she is convinced that he is the reincarnation of Vaughn.</desc>
+</programme>
+<programme start="20210824125500 +0800" stop="20210824143000 +0800" channel="997">
+    <title lang="en">CHANCE OF A LIFETIME</title>
+    <desc lang="en">An overweight, homely woman unexpectedly finds love with her longtime male friend when they are forced into a fake marriage with each other.</desc>
+</programme>
+<programme start="20210824143000 +0800" stop="20210824160000 +0800" channel="997">
+    <title lang="en">THE TIME TRAVELER"S WIFE</title>
+    <desc lang="en">Artist Clare Abshire shares a deep emotional bond with Henry De Tamble, a handsome librarian who travels involuntarily through time.</desc>
+</programme>
+<programme start="20210824160000 +0800" stop="20210824175000 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210824175000 +0800" stop="20210824200000 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210824200000 +0800" stop="20210824220000 +0800" channel="997">
+    <title lang="en">YOU"VE GOT MAIL</title>
+    <desc lang="en">Two rivals in real life unknowingly end up as soul mates over the Internet.</desc>
+</programme>
+<programme start="20210824220000 +0800" stop="20210824225000 +0800" channel="997">
+    <title lang="en">TRAFFICKERS: INSIDE THE GOLDEN TRIANGLE S1</title>
+    <desc lang="en">Traffickers exposes the secretive epicenter of illicit drug production and follows the rise and demise of three infamous drug kingpins inside the Golden Triangle.</desc>
+</programme>
+<programme start="20210824225000 +0800" stop="20210825003000 +0800" channel="997">
+    <title lang="en">SLEEPY HOLLOW</title>
+    <desc lang="en">Johnny Depp plays a fearless constable who has to confront the horrifying legend of the Headless Horseman in this Tim Burton-directed horror.</desc>
+</programme>
+<programme start="20210825003000 +0800" stop="20210825015000 +0800" channel="997">
+    <title lang="en">LIGHTS OUT</title>
+    <desc lang="en">Rebecca and Martin both faced the same terrifying events that threatened their safety and sanity and is returning with a vengeance to torment the entire family.</desc>
+</programme>
+<programme start="20210825015000 +0800" stop="20210825040500 +0800" channel="997">
+    <title lang="en">FLIGHT</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.</desc>
+</programme>
+<programme start="20210825040500 +0800" stop="20210825060500 +0800" channel="997">
+    <title lang="en">RONIN</title>
+    <desc lang="en">In a world where loyalties are easily abandoned and allegiances can be bought, a new and deadlier terrorist threat has emerged - free agent killers!</desc>
+</programme>
+<programme start="20210825060500 +0800" stop="20210825074000 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210825074000 +0800" stop="20210825092500 +0800" channel="997">
+    <title lang="en">THE TIME TRAVELER"S WIFE</title>
+    <desc lang="en">Artist Clare Abshire shares a deep emotional bond with Henry De Tamble, a handsome librarian who travels involuntarily through time.</desc>
+</programme>
+<programme start="20210825092500 +0800" stop="20210825110500 +0800" channel="997">
+    <title lang="en">ENTOURAGE (2015)</title>
+    <desc lang="en">The boys are back! Vince, E, Drama and Turtle make a splash on the big screen in this raucous comedy adaptation of the hit HBO Original series.</desc>
+</programme>
+<programme start="20210825110500 +0800" stop="20210825131500 +0800" channel="997">
+    <title lang="en">FLIGHT</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.</desc>
+</programme>
+<programme start="20210825131500 +0800" stop="20210825144000 +0800" channel="997">
+    <title lang="en">PSYCH 2: LASSIE COME HOME</title>
+    <desc lang="en">After being ambushed on the job and left for dead, Police Chief Carlton Lassiter has begun to see impossible things around his recovery clinic, prompting Shawn and Gus to return to help.</desc>
+</programme>
+<programme start="20210825144000 +0800" stop="20210825164500 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210825164500 +0800" stop="20210825184000 +0800" channel="997">
+    <title lang="en">YOU"VE GOT MAIL</title>
+    <desc lang="en">Two rivals in real life unknowingly end up as soul mates over the Internet.</desc>
+</programme>
+<programme start="20210825184000 +0800" stop="20210825202500 +0800" channel="997">
+    <title lang="en">YOU, ME AND DUPREE</title>
+    <desc lang="en">A pair of newlyweds finds their blissful peace shattered by the groom"s best friend who overstays his welcome.</desc>
+</programme>
+<programme start="20210825202500 +0800" stop="20210825220000 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210825220000 +0800" stop="20210826000500 +0800" channel="997">
+    <title lang="en">QUEEN & SLIM </title>
+    <desc lang="en">On a first date, a black man and woman are stopped by a policeman over a minor traffic infraction. As the situation spirals, the man kills the officer in self-defense, forcing the two to go on the run.</desc>
+</programme>
+<programme start="20210826000500 +0800" stop="20210826020000 +0800" channel="997">
+    <title lang="en">RONIN</title>
+    <desc lang="en">In a world where loyalties are easily abandoned and allegiances can be bought, a new and deadlier terrorist threat has emerged - free agent killers!</desc>
+</programme>
+<programme start="20210826020000 +0800" stop="20210826034500 +0800" channel="997">
+    <title lang="en">INMATE #1: THE RISE OF DANNY TREJO</title>
+    <desc lang="en">This feature documentary reveals the extraordinary life journey of Hollywood"s most unlikely hero, Danny Trejo.</desc>
+</programme>
+<programme start="20210826034500 +0800" stop="20210826054000 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210826054000 +0800" stop="20210826061000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210826061000 +0800" stop="20210826080000 +0800" channel="997">
+    <title lang="en">YOU, ME AND DUPREE</title>
+    <desc lang="en">A pair of newlyweds finds their blissful peace shattered by the groom"s best friend who overstays his welcome.</desc>
+</programme>
+<programme start="20210826080000 +0800" stop="20210826093000 +0800" channel="997">
+    <title lang="en">PSYCH 2: LASSIE COME HOME</title>
+    <desc lang="en">After being ambushed on the job and left for dead, Police Chief Carlton Lassiter has begun to see impossible things around his recovery clinic, prompting Shawn and Gus to return to help.</desc>
+</programme>
+<programme start="20210826093000 +0800" stop="20210826111000 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210826111000 +0800" stop="20210826125500 +0800" channel="997">
+    <title lang="en">INMATE #1: THE RISE OF DANNY TREJO</title>
+    <desc lang="en">This feature documentary reveals the extraordinary life journey of Hollywood"s most unlikely hero, Danny Trejo.</desc>
+</programme>
+<programme start="20210826125500 +0800" stop="20210826145500 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210826145500 +0800" stop="20210826165000 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210826165000 +0800" stop="20210826183000 +0800" channel="997">
+    <title lang="en">THE PHOTOGRAPH</title>
+    <desc lang="en">When the estranged daughter of a late famed photographer discovers a photograph tucked away in a safe-deposit box, she finds herself on a journey delving into her mother"s early life.</desc>
+</programme>
+<programme start="20210826183000 +0800" stop="20210826201500 +0800" channel="997">
+    <title lang="en">WINCHELL</title>
+    <desc lang="en">Based on true story, this HBO Original Movie follows tabloid journalist Walter Winchell, who lived the way he wrote – controversially.</desc>
+</programme>
+<programme start="20210826201500 +0800" stop="20210826220000 +0800" channel="997">
+    <title lang="en">CATS</title>
+    <desc lang="en">Oscar®-winning director Tom Hooper reimagines Andrew Lloyd Webber"s record-shattering musical.</desc>
+</programme>
+<programme start="20210826220000 +0800" stop="20210827000000 +0800" channel="997">
+    <title lang="en">BIRDMAN OR (THE UNEXPECTED VIRTUE OF IGNORANCE)</title>
+    <desc lang="en">BIRDMAN tells the story of an actor – famous for portraying an iconic superhero – as he struggles to mount a Broadway play.</desc>
+</programme>
+<programme start="20210827000000 +0800" stop="20210827013500 +0800" channel="997">
+    <title lang="en">HUMAN CAPITAL</title>
+    <desc lang="en">The lives of two families from across the social divide become fatefully intertwined following an impulsive business deal and a tragic hit-and-run accident.</desc>
+</programme>
+<programme start="20210827013500 +0800" stop="20210827020500 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210827020500 +0800" stop="20210827045000 +0800" channel="997">
+    <title lang="en">IT: CHAPTER 2</title>
+    <desc lang="en">27 years after he was defeated, Pennywise is back to terrorise the town of Derry. Now adults, the Losers have to come together to conquer their deepest fears and destroy Pennywise once and for all.</desc>
+</programme>
+<programme start="20210827045000 +0800" stop="20210827071000 +0800" channel="997">
+    <title lang="en">MIDWAY</title>
+    <desc lang="en">Based on true events in the Battle of Midway, the film tells story of the leaders and soldiers who used their instincts, fortitude, and bravery to overcome the odds during World War II.</desc>
+</programme>
+<programme start="20210827071000 +0800" stop="20210827090000 +0800" channel="997">
+    <title lang="en">THE PHOTOGRAPH</title>
+    <desc lang="en">When the estranged daughter of a late famed photographer discovers a photograph tucked away in a safe-deposit box, she finds herself on a journey delving into her mother"s early life.</desc>
+</programme>
+<programme start="20210827090000 +0800" stop="20210827105000 +0800" channel="997">
+    <title lang="en">WINCHELL</title>
+    <desc lang="en">Based on true story, this HBO Original Movie follows tabloid journalist Walter Winchell, who lived the way he wrote – controversially.</desc>
+</programme>
+<programme start="20210827105000 +0800" stop="20210827123000 +0800" channel="997">
+    <title lang="en">HUMAN CAPITAL</title>
+    <desc lang="en">The lives of two families from across the social divide become fatefully intertwined following an impulsive business deal and a tragic hit-and-run accident.</desc>
+</programme>
+<programme start="20210827123000 +0800" stop="20210827143000 +0800" channel="997">
+    <title lang="en">BIRDMAN OR (THE UNEXPECTED VIRTUE OF IGNORANCE)</title>
+    <desc lang="en">BIRDMAN tells the story of an actor – famous for portraying an iconic superhero – as he struggles to mount a Broadway play.</desc>
+</programme>
+<programme start="20210827143000 +0800" stop="20210827161000 +0800" channel="997">
+    <title lang="en">THE SPECIAL RELATIONSHIP</title>
+    <desc lang="en">The Special Relationship follows British Prime Minister Tony Blair and US President Bill Clinton as the two dynamic leaders become co-stars on the world stage.</desc>
+</programme>
+<programme start="20210827161000 +0800" stop="20210827180500 +0800" channel="997">
+    <title lang="en">CATS</title>
+    <desc lang="en">Oscar®-winning director Tom Hooper reimagines Andrew Lloyd Webber"s record-shattering musical.</desc>
+</programme>
+<programme start="20210827180500 +0800" stop="20210827194000 +0800" channel="997">
+    <title lang="en">CHANCE OF A LIFETIME</title>
+    <desc lang="en">An overweight, homely woman unexpectedly finds love with her longtime male friend when they are forced into a fake marriage with each other.</desc>
+</programme>
+<programme start="20210827194000 +0800" stop="20210827220000 +0800" channel="997">
+    <title lang="en">MIDWAY</title>
+    <desc lang="en">Based on true events in the Battle of Midway, the film tells story of the leaders and soldiers who used their instincts, fortitude, and bravery to overcome the odds during World War II.</desc>
+</programme>
+<programme start="20210827220000 +0800" stop="20210828002000 +0800" channel="997">
+    <title lang="en">TRAFFIC</title>
+    <desc lang="en">Steven Soderbergh"s ambitious sprawling plot tackles the U.S. "War on Drugs" via three different stories and a large ensemble cast including Michael Douglas and Don Cheadle.</desc>
+</programme>
+<programme start="20210828002000 +0800" stop="20210828010500 +0800" channel="997">
+    <title lang="en">TRAFFICKERS: INSIDE THE GOLDEN TRIANGLE S1</title>
+    <desc lang="en">Traffickers exposes the secretive epicenter of illicit drug production and follows the rise and demise of three infamous drug kingpins inside the Golden Triangle.</desc>
+</programme>
+<programme start="20210828010500 +0800" stop="20210828023500 +0800" channel="997">
+    <title lang="en">UNDEFEATED</title>
+    <desc lang="en">A young, lightning fast Latino boxer must navigate the path between his newfound fame, with all its seductive trappings, and his humble yet proud roots.</desc>
+</programme>
+<programme start="20210828023500 +0800" stop="20210828043500 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210828043500 +0800" stop="20210828061000 +0800" channel="997">
+    <title lang="en">BLUE STORY</title>
+    <desc lang="en">Inspired by true stories from rapper-turned-director Rapman, comes a hard-hitting crime drama about two friends growing up in South East London who end up on rival sides in a street war.</desc>
+</programme>
+<programme start="20210828061000 +0800" stop="20210828074500 +0800" channel="997">
+    <title lang="en">CHANCE OF A LIFETIME</title>
+    <desc lang="en">An overweight, homely woman unexpectedly finds love with her longtime male friend when they are forced into a fake marriage with each other.</desc>
+</programme>
+<programme start="20210828074500 +0800" stop="20210828095000 +0800" channel="997">
+    <title lang="en">THE MEXICAN</title>
+    <desc lang="en">A clumsy criminal gets placed in a position where he has to save himself and his girlfriend from the Mafia.</desc>
+</programme>
+<programme start="20210828095000 +0800" stop="20210828105000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">A social satire set at an exclusive tropical resort, THE WHITE LOTUS follows the exploits of various guests and employees over the span of a week.</desc>
+</programme>
+<programme start="20210828105000 +0800" stop="20210828115000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">A social satire set at an exclusive tropical resort, THE WHITE LOTUS follows the exploits of various guests and employees over the span of a week.</desc>
+</programme>
+<programme start="20210828115000 +0800" stop="20210828125000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">A social satire set at an exclusive tropical resort, THE WHITE LOTUS follows the exploits of various guests and employees over the span of a week.</desc>
+</programme>
+<programme start="20210828125000 +0800" stop="20210828135000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210828135000 +0800" stop="20210828145000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210828145000 +0800" stop="20210828160000 +0800" channel="997">
+    <title lang="en">THE WHITE LOTUS S1</title>
+    <desc lang="en">The series follows the vacations of various hotel guests. But with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.</desc>
+</programme>
+<programme start="20210828160000 +0800" stop="20210828163000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210828163000 +0800" stop="20210828184000 +0800" channel="997">
+    <title lang="en">61*</title>
+    <desc lang="en">In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+</programme>
+<programme start="20210828184000 +0800" stop="20210828201500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S DIARY</title>
+    <desc lang="en">A single English woman decides to improve her life and chronicle the efforts in a diary.</desc>
+</programme>
+<programme start="20210828201500 +0800" stop="20210828220000 +0800" channel="997">
+    <title lang="en">BRIDGET JONES: THE EDGE OF REASON</title>
+    <desc lang="en">Bridget Jones, a self-doubting, career-minded, calorie-counting singleton, has found romantic bliss and nothing could be better; or could it?</desc>
+</programme>
+<programme start="20210828220000 +0800" stop="20210829000000 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S BABY</title>
+    <desc lang="en">The third instalment of the romantic comedy film franchise finds Bridget pregnant but with one hitch – she can’t be sure of the identity of her baby’s father.</desc>
+</programme>
+<programme start="20210829000000 +0800" stop="20210829014000 +0800" channel="997">
+    <title lang="en">THE WAY I SEE IT</title>
+    <desc lang="en">A rare glimpse inside the American presidency through the unique lens of former Chief Official White House Photographer, Pete Souza.</desc>
+</programme>
+<programme start="20210829014000 +0800" stop="20210829034500 +0800" channel="997">
+    <title lang="en">JOKER</title>
+    <desc lang="en">An original, independent story that centers on the famous arch-nemesis of Batman - it explores Arthur Fleck and his journey from societal outcast and failed comedian to cackling criminal mastermind.</desc>
+</programme>
+<programme start="20210829034500 +0800" stop="20210829051000 +0800" channel="997">
+    <title lang="en">BANANA SPLIT </title>
+    <desc lang="en">Over the course of a summer, two teenage girls develop the perfect kindred spirit friendship, with one problem: one of them is dating the other’s ex.</desc>
+</programme>
+<programme start="20210829051000 +0800" stop="20210829065500 +0800" channel="997">
+    <title lang="en">NEVER RARELY SOMETIMES ALWAYS</title>
+    <desc lang="en">Faced with an unintended pregnancy and a lack of local support, Autumn and her cousin, Skylar, travel across state lines to New York City on a fraught journey of friendship, bravery and compassion.</desc>
+</programme>
+<programme start="20210829065500 +0800" stop="20210829083000 +0800" channel="997">
+    <title lang="en">PSYCH 2: LASSIE COME HOME</title>
+    <desc lang="en">After being ambushed on the job and left for dead, Police Chief Carlton Lassiter has begun to see impossible things around his recovery clinic, prompting Shawn and Gus to return to help.</desc>
+</programme>
+<programme start="20210829083000 +0800" stop="20210829100000 +0800" channel="997">
+    <title lang="en">THE ROADS NOT TAKEN</title>
+    <desc lang="en">Follow a day in the life of Leo (Javier Bardem) and his daughter Molly (Elle Fanning) as she grapples with the challenges of her father"s chaotic mind.</desc>
+</programme>
+<programme start="20210829100000 +0800" stop="20210829114000 +0800" channel="997">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+</programme>
+<programme start="20210829114000 +0800" stop="20210829133500 +0800" channel="997">
+    <title lang="en">TROUBLE WITH THE CURVE</title>
+    <desc lang="en">An aging baseball scout has to confront his mortality and failing eyesight whilst looking for prospects in another town.</desc>
+</programme>
+<programme start="20210829133500 +0800" stop="20210829152000 +0800" channel="997">
+    <title lang="en">THE WAY I SEE IT</title>
+    <desc lang="en">A rare glimpse inside the American presidency through the unique lens of former Chief Official White House Photographer, Pete Souza.</desc>
+</programme>
+<programme start="20210829152000 +0800" stop="20210829170000 +0800" channel="997">
+    <title lang="en">BRIDGET JONES"S DIARY</title>
+    <desc lang="en">A single English woman decides to improve her life and chronicle the efforts in a diary.</desc>
+</programme>
+<programme start="20210829170000 +0800" stop="20210829184500 +0800" channel="997">
+    <title lang="en">BRIDGET JONES: THE EDGE OF REASON</title>
+    <desc lang="en">Bridget Jones, a self-doubting, career-minded, calorie-counting singleton, has found romantic bliss and nothing could be better; or could it?</desc>
+</programme>
+<programme start="20210829184500 +0800" stop="20210829202000 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210829202000 +0800" stop="20210829220000 +0800" channel="997">
+    <title lang="en">NEVER RARELY SOMETIMES ALWAYS</title>
+    <desc lang="en">Faced with an unintended pregnancy and a lack of local support, Autumn and her cousin, Skylar, travel across state lines to New York City on a fraught journey of friendship, bravery and compassion.</desc>
+</programme>
+<programme start="20210829220000 +0800" stop="20210830001500 +0800" channel="997">
+    <title lang="en">FLIGHT</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.</desc>
+</programme>
+<programme start="20210830001500 +0800" stop="20210830023500 +0800" channel="997">
+    <title lang="en">BABEL</title>
+    <desc lang="en">A tragic incident involving an American couple in Morocco sparks a chain of events for four families in different countries, as they struggle to overcome isolation, fear, and displacement.</desc>
+</programme>
+<programme start="20210830023500 +0800" stop="20210830043500 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210830043500 +0800" stop="20210830062500 +0800" channel="997">
+    <title lang="en">INMATE #1: THE RISE OF DANNY TREJO</title>
+    <desc lang="en">This feature documentary reveals the extraordinary life journey of Hollywood"s most unlikely hero, Danny Trejo.</desc>
+</programme>
+<programme start="20210830062500 +0800" stop="20210830081000 +0800" channel="997">
+    <title lang="en">TROUBLE WITH THE CURVE</title>
+    <desc lang="en">An aging baseball scout has to confront his mortality and failing eyesight whilst looking for prospects in another town.</desc>
+</programme>
+<programme start="20210830081000 +0800" stop="20210830095500 +0800" channel="997">
+    <title lang="en">OBAMA: IN PURSUIT OF A MORE PERFECT UNION S1</title>
+    <desc lang="en">President Barack Obama"s first-hand account of his time in office–his successes, his failures, his unfinished business–and what he hopes will be his legacy.</desc>
+</programme>
+<programme start="20210830095500 +0800" stop="20210830121000 +0800" channel="997">
+    <title lang="en">FLIGHT</title>
+    <desc lang="en">A pilot miraculously lands his plane after a catastrophe, but gets questioned about the cause of it all.</desc>
+</programme>
+<programme start="20210830121000 +0800" stop="20210830135000 +0800" channel="997">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+</programme>
+<programme start="20210830135000 +0800" stop="20210830142000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210830142000 +0800" stop="20210830162000 +0800" channel="997">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+</programme>
+<programme start="20210830162000 +0800" stop="20210830181000 +0800" channel="997">
+    <title lang="en">WINCHELL</title>
+    <desc lang="en">Based on true story, this HBO Original Movie follows tabloid journalist Walter Winchell, who lived the way he wrote – controversially.</desc>
+</programme>
+<programme start="20210830181000 +0800" stop="20210830200000 +0800" channel="997">
+    <title lang="en">THE LOST HUSBAND</title>
+    <desc lang="en">Trying to put her life back together after the death of her husband, Libby and her children move to her estranged Aunt"s goat farm in central Texas.</desc>
+</programme>
+<programme start="20210830200000 +0800" stop="20210830220000 +0800" channel="997">
+    <title lang="en">BIRDMAN OR (THE UNEXPECTED VIRTUE OF IGNORANCE)</title>
+    <desc lang="en">BIRDMAN tells the story of an actor – famous for portraying an iconic superhero – as he struggles to mount a Broadway play.</desc>
+</programme>
+<programme start="20210830220000 +0800" stop="20210830235000 +0800" channel="997">
+    <title lang="en">BOMBSHELL</title>
+    <desc lang="en">Based on the real scandal, the film looks inside the most powerful and controversial media empire of all time, Fox News, and the explosive story of the women who brought down the infamous man who created it.</desc>
+</programme>
+<programme start="20210830235000 +0800" stop="20210831014500 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210831014500 +0800" stop="20210831035000 +0800" channel="997">
+    <title lang="en">ARGO</title>
+    <desc lang="en">A daring CIA agent plans a fake movie set-up to rescue six Americans in Tehran.</desc>
+</programme>
+<programme start="20210831035000 +0800" stop="20210831060000 +0800" channel="997">
+    <title lang="en">THELMA & LOUISE</title>
+    <desc lang="en">Two women on a fishing trip find themselves embarking on a crime spree across the American southwest after shooting an attempted rapist.</desc>
+</programme>
+<programme start="20210831060000 +0800" stop="20210831081500 +0800" channel="997">
+    <title lang="en">MIDWAY</title>
+    <desc lang="en">Based on true events in the Battle of Midway, the film tells story of the leaders and soldiers who used their instincts, fortitude, and bravery to overcome the odds during World War II.</desc>
+</programme>
+<programme start="20210831081500 +0800" stop="20210831100000 +0800" channel="997">
+    <title lang="en">THE LOST HUSBAND</title>
+    <desc lang="en">Trying to put her life back together after the death of her husband, Libby and her children move to her estranged Aunt"s goat farm in central Texas.</desc>
+</programme>
+<programme start="20210831100000 +0800" stop="20210831115500 +0800" channel="997">
+    <title lang="en">BIRDMAN OR (THE UNEXPECTED VIRTUE OF IGNORANCE)</title>
+    <desc lang="en">BIRDMAN tells the story of an actor – famous for portraying an iconic superhero – as he struggles to mount a Broadway play.</desc>
+</programme>
+<programme start="20210831115500 +0800" stop="20210831135000 +0800" channel="997">
+    <title lang="en">RECOUNT</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court"s ruling in favor of G. W. Bush.</desc>
+</programme>
+<programme start="20210831135000 +0800" stop="20210831154000 +0800" channel="997">
+    <title lang="en">RADIOACTIVE</title>
+    <desc lang="en">Radioactive is the incredible, true story of Marie Curie, a fiercely passionate scientist, who struggles to progress her ground-breaking research, despite her obvious brilliance.</desc>
+</programme>
+<programme start="20210831154000 +0800" stop="20210831174500 +0800" channel="997">
+    <title lang="en">WARM SPRINGS </title>
+    <desc lang="en">One man"s secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+</programme>
+<programme start="20210831174500 +0800" stop="20210831193000 +0800" channel="997">
+    <title lang="en">TESLA</title>
+    <desc lang="en">Tesla chronicles the life of visionary inventor Nikola Tesla – his rivalry with Thomas Edison, his relationship with Anne Morgan, and his development of the modern AC current electrical supply system.</desc>
+</programme>
+<programme start="20210831193000 +0800" stop="20210831200000 +0800" channel="997">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.</desc>
+</programme>
+<programme start="20210831200000 +0800" stop="20210831220000 +0800" channel="997">
+    <title lang="en">RONIN</title>
+    <desc lang="en">In a world where loyalties are easily abandoned and allegiances can be bought, a new and deadlier terrorist threat has emerged - free agent killers!</desc>
+</programme>
+<programme start="20210831220000 +0800" stop="20210831224500 +0800" channel="997">
+    <title lang="en">TRAFFICKERS: INSIDE THE GOLDEN TRIANGLE S1</title>
+    <desc lang="en">Traffickers exposes the secretive epicenter of illicit drug production and follows the rise and demise of three infamous drug kingpins inside the Golden Triangle.</desc>
+</programme>
+<programme start="20210831224500 +0800" stop="20210901005000 +0800" channel="997">
+    <title lang="en">THELMA & LOUISE</title>
+    <desc lang="en">Two women on a fishing trip find themselves embarking on a crime spree across the American southwest after shooting an attempted rapist.</desc>
+</programme>
+<programme start="20210901005000 +0800" stop="20210901031000 +0800" channel="997">
+    <title lang="en">TRAFFIC</title>
+    <desc lang="en">Steven Soderbergh"s ambitious sprawling plot tackles the U.S. "War on Drugs" via three different stories and a large ensemble cast including Michael Douglas and Don Cheadle.</desc>
+</programme>
+<programme start="20210901031000 +0800" stop="20210901045000 +0800" channel="997">
+    <title lang="en">MAMA</title>
+    <desc lang="en">Two abandoned young girls are fostered by an unknown entity which eventually follows them to their new suburban home.</desc>
+</programme>
+<programme start="20210901045000 +0800" stop="19000100000000 +0800" channel="997">
+    <title lang="en">THE SPECIAL RELATIONSHIP</title>
+    <desc lang="en">The Special Relationship follows British Prime Minister Tony Blair and US President Bill Clinton as the two dynamic leaders become co-stars on the world stage.</desc>
+</programme>  
 </tv>
