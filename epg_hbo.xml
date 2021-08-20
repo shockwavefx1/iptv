@@ -5,7 +5,7 @@
     <icon src="https://static.epg.best/in/AndFlix.in.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  channel id="666">
+  <channel id="666">
     <display-name lang="en">And Prive</display-name>
     <icon src="https://static.epg.best/in/AndPrive.in.png" />
     <url>http://www.astro.com.my</url>
