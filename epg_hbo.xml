@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="XX" generator-info-url="http://www.webgrabplus.com">
-  <channel id="555">
-    <display-name lang="en">And Flix</display-name>
+  <channel id="AndFlix.in">
+    <display-name lang="en">AndFlix.in</display-name>
     <icon src="https://static.epg.best/in/AndFlix.in.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="666">
-    <display-name lang="en">And Prive</display-name>
+  <channel id="AndPriveHD.in">
+    <display-name lang="en">AndPriveHD.in</display-name>
     <icon src="https://static.epg.best/in/AndPrive.in.png" />
     <url>http://www.astro.com.my</url>
   </channel>
@@ -34,11 +34,11 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-<programme start="20210816005000 +0000" stop="20250816010000 +0000" channel="555">
+<programme start="20210820005000 +0000" stop="20250816010000 +0000" channel="AndFlix.in">
     <title lang="en">Movies</title>
     <desc lang="en">Movies</desc>
 </programme>
-<programme start="20210816005000 +0000" stop="20250816010000 +0000" channel="666">
+<programme start="20210820005000 +0000" stop="20250816010000 +0000" channel="AndPriveHD.in">
     <title lang="en">Movies</title>
     <desc lang="en">Movies</desc>
 </programme>
