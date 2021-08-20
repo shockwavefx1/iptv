@@ -5,11 +5,11 @@
     <url>http://www.startv.com</url>
   </channel>
   <channel id="666">
-    <display-name lang="en">&flix HD</display-name>
+    <display-name lang="en">flix HD</display-name>
     <url>http://www.startv.com</url>
   </channel>
   <channel id="555">
-    <display-name lang="en">&privé HD</display-name>
+    <display-name lang="en">prive HD</display-name>
     <url>http://www.startv.com</url>
   </channel>
   <channel id="888">
@@ -32,7 +32,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <programme start="20210816005000 +0000" stop="20250816010000 +0000" channel="666">
+<programme start="20210816005000 +0000" stop="20250816010000 +0000" channel="666">
     <title lang="en">Movies</title>
     <desc lang="en">Movies</desc>
 </programme>
@@ -49,8 +49,6 @@
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">MTV Biggest Pop</desc>
 </programme>
-
-
 <programme start="20210816005000 +0000" stop="20210816010000 +0000" channel="999">
     <title lang="en">THE TOM AND JERRY SHOW S1</title>
     <desc lang="en">After a destructive chase, Tom and Spike go to the vet.</desc>
