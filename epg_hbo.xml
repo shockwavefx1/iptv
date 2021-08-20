@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="XX" generator-info-url="http://www.webgrabplus.com">
+  <channel id="888">
+    <display-name lang="en">MTV Biggest Pop</display-name>
+    <icon src="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
   <channel id="999">
     <display-name lang="en">HBO FAMILY</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" />
@@ -15,6 +20,10 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+<programme start="20210816005000 +0000" stop="20250816010000 +0000" channel="888">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">MTV Biggest Pop</desc>
+</programme>
 <programme start="20210816005000 +0000" stop="20210816010000 +0000" channel="999">
     <title lang="en">THE TOM AND JERRY SHOW S1</title>
     <desc lang="en">After a destructive chase, Tom and Spike go to the vet.</desc>
