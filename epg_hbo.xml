@@ -4,14 +4,6 @@
     <display-name lang="en">Star Movies HD</display-name>
     <url>http://www.startv.com</url>
   </channel>
-  <channel id="666">
-    <display-name lang="en">flix HD</display-name>
-    <url>http://www.startv.com</url>
-  </channel>
-  <channel id="555">
-    <display-name lang="en">prive HD</display-name>
-    <url>http://www.startv.com</url>
-  </channel>
   <channel id="888">
     <display-name lang="en">MTV Biggest Pop</display-name>
     <icon src="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" />
@@ -32,16 +24,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-<programme start="20210816005000 +0000" stop="20250816010000 +0000" channel="666">
-    <title lang="en">Movies</title>
-    <desc lang="en">Movies</desc>
-</programme>
-  <programme start="20210816005000 +0000" stop="20250816010000 +0000" channel="555">
-    <title lang="en">Movies</title>
-    <desc lang="en">Movies</desc>
-</programme>
-</programme>
-  <programme start="20210816005000 +0000" stop="20250816010000 +0000" channel="777">
+<programme start="20210816005000 +0000" stop="20250816010000 +0000" channel="777">
     <title lang="en">Movies</title>
     <desc lang="en">Movies</desc>
 </programme>
