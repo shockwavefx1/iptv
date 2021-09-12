@@ -48,4 +48,14 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 #EXTINF:-1 tvg-id="WarnerTV.us" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" ,Warner TV 
 http://203.154.243.89:11205
 
+#EXTINF:-1 ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
+https://weareblahs.github.io/yttestlabs/youtube.m3u
+
+#EXTINF:-1 ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
+
+
+
+
+
 
