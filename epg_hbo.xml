@@ -34,19 +34,19 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-<programme start="20210901000000 +0000" stop="20250816010000 +0000" channel="AndFlix.in">
+<programme start="20211001000000 +0000" stop="20250816010000 +0000" channel="AndFlix.in">
     <title lang="en">Movies</title>
     <desc lang="en">Movies</desc>
 </programme>
-<programme start="20210901000000 +0000" stop="20250816010000 +0000" channel="AndPriveHD.in">
+<programme start="20211001000000 +0000" stop="20250816010000 +0000" channel="AndPriveHD.in">
     <title lang="en">Movies</title>
     <desc lang="en">Movies</desc>
 </programme>
-<programme start="20210901000000 +0000" stop="20250816010000 +0000" channel="777">
+<programme start="20211001000000 +0000" stop="20250816010000 +0000" channel="777">
     <title lang="en">Movies</title>
     <desc lang="en">Movies</desc>
 </programme>
-<programme start="20210912000000 +0000" stop="20211001000000 +0000" channel="888">
+<programme start="20211012000000 +0000" stop="20211001000000 +0000" channel="888">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">MTV Biggest Pop</desc>
 </programme>
