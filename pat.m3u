@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" ,BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="720" tvg-name="HELLO HD" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-
 #EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
@@ -39,22 +36,58 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1  tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" tvg-country="IN" tvg-url="" ,Zee Cafe HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-id="ts173" tvg-logo="https://imgur.com/BNaXQWX.png" tvg-country="IN" tvg-url="" ,Movies Now HD
-http://watchindia.net:8880/live/33253/72963/2102.ts
-
-#EXTINF:-1 tvg-id="PIXHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix HD
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-
-#EXTINF:-1 tvg-id="WarnerTV.us" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" ,Warner TV 
-http://203.154.243.89:11205
-
 #EXTINF:-1 ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
 https://weareblahs.github.io/yttestlabs/youtube.m3u
 
-#EXTINF:-1 ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-id="102" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:-1 tvg-id="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/103.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 tvg-id="107" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/107.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/108.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/109.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/DSngat.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="111" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 
 
