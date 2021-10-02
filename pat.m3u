@@ -1,50 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440
 
-#EXTINF:-1 tvg-id="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-
-#EXTINF:-1 tvg-id="102" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-
-#EXTINF:-1 tvg-id="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/103.m3u8
-
-#EXTINF:-1 tvg-id="106" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-
-#EXTINF:-1 tvg-id="107" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/107.m3u8
-
-#EXTINF:-1 tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/108.m3u8
-
-#EXTINF:-1 tvg-id="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/109.m3u8
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/DSngat.m3u8
-
-#EXTINF:-1 tvg-id="114" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png",TV Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-
-#EXTINF:-1 tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-
-#EXTINF:-1 tvg-id="111" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-
-
-
 
 #EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" ,BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
@@ -76,14 +31,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" ,Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/e625d11f0db6e2538459e.png",TVS
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-
 #EXTINF:-1  tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" tvg-country="IN" tvg-url="" ,Zee Cafe HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
-https://weareblahs.github.io/yttestlabs/youtube.m3u
 
 
 
